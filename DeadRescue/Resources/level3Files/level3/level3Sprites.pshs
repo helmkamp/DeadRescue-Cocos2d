@@ -41,58 +41,6 @@
 			<dict>
 				<key>BigBackground</key>
 				<dict>
-					<key>DocumentSecurityImageBookmark</key>
-					<data>
-					Ym9vaxwFAAAAAAQQMAAAAAAAAAAAAAAAAAAA
-					AAAAAAAAAAAAAAAAAAAAAAAAAAAA9AMAAAUA
-					AAABAQAAVXNlcnMAAAAKAAAAAQEAAGhlbG15
-					X2lNYWMAAAkAAAABAQAARG9jdW1lbnRzAAAA
-					DgAAAAEBAABYQ29kZSBQcm9qZWN0cwAAEAAA
-					AAEBAABDb2NvczJkIFByb2plY3RzCgAAAAEB
-					AABEZWFkUmVzY3VlAAAJAAAAAQEAAFJlc291
-					cmNlcwAAAAsAAAABAQAAbGV2ZWxIZWxwZXIA
-					BgAAAAEBAABsZXZlbDMAABEAAAABAQAAQmln
-					QmFja2dyb3VuZC5wbmcAAAAsAAAAAQYAAAQA
-					AAAUAAAAKAAAADwAAABUAAAAbAAAAGwAAACA
-					AAAAlAAAAKgAAAC4AAAACAAAAAQDAAA+mAAA
-					AAAAAAgAAAAEAwAAK38IAAAAAAAIAAAABAMA
-					ADh/CAAAAAAACAAAAAQDAADuVZwAAAAAAAgA
-					AAAEAwAADFOgAAAAAAAIAAAABAMAALdZsQAA
-					AAAACAAAAAQDAAC6WbEAAAAAAAgAAAAEAwAA
-					u1mxAAAAAAAIAAAABAMAAGVisQAAAAAACAAA
-					AAQDAABpYrEAAAAAAAgAAAAEAwAAbWKxAAAA
-					AAAsAAAAAQYAAAgBAAAYAQAAKAEAADgBAABI
-					AQAAWAEAAGgBAAB4AQAAiAEAAJgBAACoAQAA
-					CAAAAAAEAABBtoUYIgAAABgAAAABAgAAAQAA
-					AAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEF
-					AAAEAAAAAwMAAAEAAAAIAAAABAMAAAkAAAAA
-					AAAABAAAAAMDAAD1AQAADAAAAAEBAABNYWNp
-					bnRvc2ggSEQIAAAABAMAAACAnK3oAAAACAAA
-					AAAEAABBsw+j2gAAACQAAAABAQAARUNDODU0
-					ODgtOEFBQS0zRjJFLTlBQUYtNzEyQTBBNDZE
-					RTUxGAAAAAECAACBAAAAAQAIAO8/AAABAAgA
-					AAAAAAAAAAABAAAAAQEAAC8AAAAEAAAAAwMA
-					AAABAAAIAQAAAQIAADNlMDEzYzFiMGQwMGYz
-					YjExMWJlZGU4Y2FmNzcyODE0MmE2ZDM5YzQ7
-					MDAwMDAwMDA7MDAwMDAwMDAwMDAwMDAyMDtj
-					b20uYXBwbGUuYXBwLXNhbmRib3gucmVhZC13
-					cml0ZTswMDAwMDAwMTswMTAwMDAwMzswMDAw
-					MDAwMDAwYjE2MjZkOy91c2Vycy9oZWxteV9p
-					bWFjL2RvY3VtZW50cy94Y29kZSBwcm9qZWN0
-					cy9jb2NvczJkIHByb2plY3RzL2RlYWRyZXNj
-					dWUvZGVhZHJlc2N1ZS9yZXNvdXJjZXMvbGV2
-					ZWxoZWxwZXIvbGV2ZWwzL2JpZ2JhY2tncm91
-					bmQucG5nAPAAAAD+////AQAAAAAAAAATAAAA
-					BBAAANQAAAAAAAAABRAAALgBAAAAAAAAEBAA
-					APwBAAAAAAAAQBAAAOwBAAAAAAAAVBAAACQC
-					AAAAAAAAVRAAACQCAAAAAAAAVhAAABwCAAAA
-					AAAAAiAAAMwCAAAAAAAAECAAAEwCAAAAAAAA
-					ESAAAIACAAAAAAAAEiAAAGACAAAAAAAAEyAA
-					AHACAAAAAAAAICAAAKwCAAAAAAAAMCAAABwC
-					AAAAAAAAAcAAADACAAAAAAAAEcAAABQAAAAA
-					AAAAEsAAAEACAAAAAAAAENAAANgCAAAAAAAA
-					gPAAAOQCAAAAAAAA
-					</data>
 					<key>IsSHSprite</key>
 					<true/>
 					<key>PhysicProperties</key>
@@ -169,7 +117,7 @@
 						<key>OriginalImage</key>
 						<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue/DeadRescue/Resources/levelHelper/level3/BigBackground.png</string>
 						<key>OriginalImage_RelativePath</key>
-						<string>BigBackground.png/</string>
+						<string>../../levelHelper/level3/BigBackground.png/</string>
 						<key>OriginalRect</key>
 						<string>{{0, 0}, {1280, 1152}}</string>
 						<key>OriginalSize</key>
@@ -192,57 +140,59 @@
 						<integer>0</integer>
 					</dict>
 				</dict>
-				<key>Player</key>
+				<key>Player-hd</key>
 				<dict>
 					<key>DocumentSecurityImageBookmark</key>
 					<data>
-					Ym9va+wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
-					AAAAAAAAAAAAAAAAAAAAAAAAAAAAxAMAAAUA
+					Ym9vaxQFAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAA7AMAAAUA
 					AAABAQAAVXNlcnMAAAAKAAAAAQEAAGhlbG15
 					X2lNYWMAAAkAAAABAQAARG9jdW1lbnRzAAAA
 					DgAAAAEBAABYQ29kZSBQcm9qZWN0cwAAEAAA
 					AAEBAABDb2NvczJkIFByb2plY3RzCgAAAAEB
 					AABEZWFkUmVzY3VlAAAJAAAAAQEAAFJlc291
-					cmNlcwAAAAsAAAABAQAAbGV2ZWxIZWxwZXIA
-					CgAAAAEBAABQbGF5ZXIucG5nAAAoAAAAAQYA
-					AAQAAAAUAAAAKAAAADwAAABUAAAAbAAAAGwA
-					AACAAAAAlAAAAKgAAAAIAAAABAMAAD6YAAAA
-					AAAACAAAAAQDAAArfwgAAAAAAAgAAAAEAwAA
-					OH8IAAAAAAAIAAAABAMAAO5VnAAAAAAACAAA
-					AAQDAAAMU6AAAAAAAAgAAAAEAwAAt1mxAAAA
-					AAAIAAAABAMAALpZsQAAAAAACAAAAAQDAAC7
-					WbEAAAAAAAgAAAAEAwAAZWKxAAAAAAAIAAAA
-					BAMAAJZisQAAAAAAKAAAAAEGAADsAAAA/AAA
-					AAwBAAAcAQAALAEAADwBAABMAQAAXAEAAGwB
-					AAB8AQAACAAAAAAEAABBtoUYIgAAABgAAAAB
-					AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAA
-					AAAAAAEFAAAEAAAAAwMAAAIAAAAEAAAAAwMA
-					AAEAAAAIAAAABAMAAAgAAAAAAAAABAAAAAMD
-					AAD1AQAADAAAAAEBAABNYWNpbnRvc2ggSEQI
-					AAAABAMAAACAnK3oAAAACAAAAAAEAABBsw+j
-					2gAAACQAAAABAQAARUNDODU0ODgtOEFBQS0z
-					RjJFLTlBQUYtNzEyQTBBNDZERTUxGAAAAAEC
-					AACBAAAAAQAIAO8/AAABAAgAAAAAAAAAAAAB
-					AAAAAQEAAC8AAAAEAAAAAwMAAAABAAD6AAAA
-					AQIAADliNTFjOGE0MmJlNjczYjdhOWU3MDZj
-					YWU1MTAzMDg3MDZjMmQ3ZDk7MDAwMDAwMDA7
-					MDAwMDAwMDAwMDAwMDAyMDtjb20uYXBwbGUu
-					YXBwLXNhbmRib3gucmVhZC13cml0ZTswMDAw
-					MDAwMTswMTAwMDAwMzswMDAwMDAwMDAwYjE2
-					Mjk2Oy91c2Vycy9oZWxteV9pbWFjL2RvY3Vt
-					ZW50cy94Y29kZSBwcm9qZWN0cy9jb2NvczJk
-					IHByb2plY3RzL2RlYWRyZXNjdWUvZGVhZHJl
-					c2N1ZS9yZXNvdXJjZXMvbGV2ZWxoZWxwZXIv
-					cGxheWVyLnBuZwAAAPAAAAD+////AQAAAAAA
-					AAATAAAABBAAALwAAAAAAAAABRAAAIwBAAAA
-					AAAAEBAAAMwBAAAAAAAAQBAAALwBAAAAAAAA
-					VBAAAPQBAAAAAAAAVRAAAAACAAAAAAAAVhAA
-					AOwBAAAAAAAAAiAAAKgCAAAAAAAAECAAACgC
-					AAAAAAAAESAAAFwCAAAAAAAAEiAAADwCAAAA
-					AAAAEyAAAEwCAAAAAAAAICAAAIgCAAAAAAAA
-					MCAAAOwBAAAAAAAAAcAAAAwCAAAAAAAAEcAA
-					ABQAAAAAAAAAEsAAABwCAAAAAAAAENAAALQC
-					AAAAAAAAgPAAAMACAAAAAAAA
+					cmNlcwAAAAsAAAABAQAAbGV2ZWwzRmlsZXMA
+					BgAAAAEBAABsZXZlbDMAAA0AAAABAQAAUGxh
+					eWVyLWhkLnBuZwAAACwAAAABBgAABAAAABQA
+					AAAoAAAAPAAAAFQAAABsAAAAbAAAAIAAAACU
+					AAAAqAAAALgAAAAIAAAABAMAAD6YAAAAAAAA
+					CAAAAAQDAAArfwgAAAAAAAgAAAAEAwAAOH8I
+					AAAAAAAIAAAABAMAAO5VnAAAAAAACAAAAAQD
+					AAAMU6AAAAAAAAgAAAAEAwAAEnmxAAAAAAAI
+					AAAABAMAABV5sQAAAAAACAAAAAQDAAAWebEA
+					AAAAAAgAAAAEAwAAZWKxAAAAAAAIAAAABAMA
+					AGlisQAAAAAACAAAAAQDAAB7YrEAAAAAACwA
+					AAABBgAABAEAABQBAAAkAQAANAEAAEQBAABU
+					AQAAZAEAAHQBAACEAQAAlAEAAKQBAAAIAAAA
+					AAQAAEG2hWWAAAAAGAAAAAECAAABAAAAAAAA
+					AA8AAAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQA
+					AAADAwAAAQAAAAgAAAAEAwAACQAAAAAAAAAE
+					AAAAAwMAAPUBAAAMAAAAAQEAAE1hY2ludG9z
+					aCBIRAgAAAAEAwAAAICcregAAAAIAAAAAAQA
+					AEGzD6PaAAAAJAAAAAEBAABFQ0M4NTQ4OC04
+					QUFBLTNGMkUtOUFBRi03MTJBMEE0NkRFNTEY
+					AAAAAQIAAIEAAAABAAgA7z8AAAEACAAAAAAA
+					AAAAAAEAAAABAQAALwAAAAQAAAADAwAAAAEA
+					AAQBAAABAgAAYTczZDUwYzhiYzk2MWFlYjUy
+					YTFkYzAwMjI5ODkzNzYxYWVlY2I5YTswMDAw
+					MDAwMDswMDAwMDAwMDAwMDAwMDIwO2NvbS5h
+					cHBsZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRl
+					OzAwMDAwMDAxOzAxMDAwMDAzOzAwMDAwMDAw
+					MDBiMTYyN2I7L3VzZXJzL2hlbG15X2ltYWMv
+					ZG9jdW1lbnRzL3hjb2RlIHByb2plY3RzL2Nv
+					Y29zMmQgcHJvamVjdHMvZGVhZHJlc2N1ZS9k
+					ZWFkcmVzY3VlL3Jlc291cmNlcy9sZXZlbDNm
+					aWxlcy9sZXZlbDMvcGxheWVyLWhkLnBuZwDw
+					AAAA/v///wEAAAAAAAAAEwAAAAQQAADQAAAA
+					AAAAAAUQAAC0AQAAAAAAABAQAAD4AQAAAAAA
+					AEAQAADoAQAAAAAAAFQQAAAgAgAAAAAAAFUQ
+					AAAgAgAAAAAAAFYQAAAYAgAAAAAAAAIgAADI
+					AgAAAAAAABAgAABIAgAAAAAAABEgAAB8AgAA
+					AAAAABIgAABcAgAAAAAAABMgAABsAgAAAAAA
+					ACAgAACoAgAAAAAAADAgAAAYAgAAAAAAAAHA
+					AAAsAgAAAAAAABHAAAAUAAAAAAAAABLAAAA8
+					AgAAAAAAABDQAADUAgAAAAAAAIDwAADgAgAA
+					AAAAAA==
 					</data>
 					<key>IsSHSprite</key>
 					<true/>
@@ -278,43 +228,67 @@
 								<key>Fixture</key>
 								<array>
 									<array>
-										<string>{3.25, 0}</string>
-										<string>{6.25, 1}</string>
-										<string>{3.25, 1.5}</string>
+										<string>{-7, -9}</string>
+										<string>{-7, -15.5}</string>
+										<string>{-4.5, -15.5}</string>
+										<string>{-2, -12.5}</string>
+										<string>{5.5, 4.5}</string>
 									</array>
 									<array>
-										<string>{-3.25, -4.5}</string>
-										<string>{-3.25, -7.5}</string>
-										<string>{-1.25, -6}</string>
-										<string>{3.25, 0}</string>
+										<string>{1.5, -15.5}</string>
+										<string>{4.5, -15.5}</string>
+										<string>{4.5, -9.5}</string>
+										<string>{-0.5, -12.5}</string>
 									</array>
 									<array>
-										<string>{-1.25, -6}</string>
-										<string>{1.75, -7.5}</string>
-										<string>{3.25, 0}</string>
+										<string>{6.5, 8}</string>
+										<string>{6.5, 12.5}</string>
+										<string>{2.5, 17}</string>
+										<string>{-3.5, 17}</string>
+										<string>{-3.5, 16.5}</string>
+										<string>{5.5, 6.5}</string>
 									</array>
 									<array>
-										<string>{-3.25, 3}</string>
-										<string>{-4.25, 1.5}</string>
-										<string>{-4.25, -3}</string>
-										<string>{-3.25, -4.5}</string>
-										<string>{3.25, 0}</string>
-										<string>{3.25, 1.5}</string>
-										<string>{2.25, 2.5}</string>
+										<string>{7, -0.5}</string>
+										<string>{13, 1}</string>
+										<string>{13, 2.5}</string>
+										<string>{11.5, 3.5}</string>
+										<string>{6.5, 3.5}</string>
 									</array>
 									<array>
-										<string>{-1.25, 8}</string>
-										<string>{-2.25, 8}</string>
-										<string>{-3.75, 6}</string>
-										<string>{-3.25, 3}</string>
-										<string>{2.25, 2.5}</string>
-										<string>{2.75, 6.5}</string>
-										<string>{2.25, 7.5}</string>
+										<string>{5.5, 6.5}</string>
+										<string>{-7.5, 12}</string>
+										<string>{-8.5, 11.5}</string>
+										<string>{-8.5, 9}</string>
+										<string>{-6.5, 6.5}</string>
+										<string>{5.5, 4.5}</string>
 									</array>
 									<array>
-										<string>{-0.75, 8.5}</string>
-										<string>{-1.25, 8}</string>
-										<string>{2.25, 7.5}</string>
+										<string>{5.5, 6.5}</string>
+										<string>{-3.5, 16.5}</string>
+										<string>{-5.5, 15.5}</string>
+										<string>{-7.5, 12}</string>
+									</array>
+									<array>
+										<string>{5.5, 4.5}</string>
+										<string>{-6.5, 6.5}</string>
+										<string>{-8.5, 4.5}</string>
+										<string>{-8.5, -7.5}</string>
+										<string>{-7, -9}</string>
+									</array>
+									<array>
+										<string>{6.5, 3.5}</string>
+										<string>{5.5, 4.5}</string>
+										<string>{-2, -12.5}</string>
+										<string>{-0.5, -12.5}</string>
+										<string>{4.5, -9.5}</string>
+										<string>{7, -0.5}</string>
+									</array>
+									<array>
+										<string>{7.5, -4}</string>
+										<string>{7, -0.5}</string>
+										<string>{4.5, -9.5}</string>
+										<string>{5.5, -9}</string>
 									</array>
 								</array>
 								<key>Friction</key>
@@ -334,7 +308,7 @@
 								<key>LHHeight</key>
 								<real>0.0</real>
 								<key>LHShapePositionOffset</key>
-								<string>{-4.25, -8.5}</string>
+								<string>{-8.5, -17}</string>
 								<key>LHWidth</key>
 								<real>0.0</real>
 								<key>Mask</key>
@@ -345,23 +319,35 @@
 								<real>0.20000000298023224</real>
 								<key>ShapePoints</key>
 								<array>
-									<string>{6, 1}</string>
-									<string>{4, 1}</string>
-									<string>{1, 5}</string>
-									<string>{2, 11}</string>
-									<string>{0, 14}</string>
-									<string>{0, 23}</string>
-									<string>{2, 26}</string>
-									<string>{2, 32}</string>
-									<string>{6, 29}</string>
-									<string>{12, 32}</string>
-									<string>{15, 17}</string>
-									<string>{21, 15}</string>
-									<string>{15, 14}</string>
-									<string>{13, 12}</string>
-									<string>{14, 4}</string>
-									<string>{13, 2}</string>
-									<string>{7, 0}</string>
+									<string>{10, 1}</string>
+									<string>{6, 3}</string>
+									<string>{2, 10}</string>
+									<string>{0, 11}</string>
+									<string>{0, 16}</string>
+									<string>{4, 21}</string>
+									<string>{0, 25}</string>
+									<string>{0, 49}</string>
+									<string>{3, 52}</string>
+									<string>{3, 65}</string>
+									<string>{8, 65}</string>
+									<string>{13, 59}</string>
+									<string>{16, 59}</string>
+									<string>{20, 65}</string>
+									<string>{26, 65}</string>
+									<string>{26, 53}</string>
+									<string>{28, 52}</string>
+									<string>{32, 42}</string>
+									<string>{31, 35}</string>
+									<string>{43, 32}</string>
+									<string>{43, 29}</string>
+									<string>{40, 27}</string>
+									<string>{30, 27}</string>
+									<string>{28, 25}</string>
+									<string>{28, 21}</string>
+									<string>{30, 18}</string>
+									<string>{30, 9}</string>
+									<string>{22, 0}</string>
+									<string>{10, 0}</string>
 								</array>
 								<key>ShapePositionOffset</key>
 								<string>{0, 0}</string>
@@ -377,7 +363,7 @@
 					<key>SHSheetName</key>
 					<string>objects</string>
 					<key>SHSpriteName</key>
-					<string>Player</string>
+					<string>Player-hd</string>
 					<key>SheetImage</key>
 					<string>level3Sprites_objects.png</string>
 					<key>SheetImage-HD</key>
@@ -401,9 +387,9 @@
 						<key>FlipY</key>
 						<false/>
 						<key>Frame</key>
-						<string>{{738, 126}, {11, 16.5}}</string>
+						<string>{{738, 160}, {22, 33}}</string>
 						<key>Frame-HD</key>
-						<string>{{1476, 252}, {22, 33}}</string>
+						<string>{{1476, 320}, {44, 66}}</string>
 						<key>Image</key>
 						<string>level3Sprites_objects.png</string>
 						<key>Image-HD</key>
@@ -417,29 +403,29 @@
 						<key>IsTrimmed</key>
 						<true/>
 						<key>Name</key>
-						<string>Player</string>
+						<string>Player-hd</string>
 						<key>Opacity</key>
 						<real>1</real>
 						<key>OriginalImage</key>
-						<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue/DeadRescue/Resources/levelHelper/Player.png</string>
+						<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue/DeadRescue/Resources/level3Files/level3/Player-hd.png</string>
 						<key>OriginalImage_RelativePath</key>
-						<string>../Player.png/</string>
+						<string>Player-hd.png/</string>
 						<key>OriginalRect</key>
-						<string>{{5, 3}, {22, 33}}</string>
+						<string>{{10, 6}, {44, 66}}</string>
 						<key>OriginalSize</key>
-						<string>{27, 40}</string>
+						<string>{54, 80}</string>
 						<key>Position</key>
-						<string>{1476, 252}</string>
+						<string>{1476, 320}</string>
 						<key>Scale</key>
 						<string>{1, 1}</string>
 						<key>SpriteSize</key>
-						<string>{13.5, 20}</string>
+						<string>{27, 40}</string>
 						<key>SpriteWasBreaked</key>
 						<false/>
 						<key>Tag</key>
 						<integer>0</integer>
 						<key>TextureOffset</key>
-						<string>{1.25, 0.25}</string>
+						<string>{2.5, 0.5}</string>
 						<key>UsesBatchRendering</key>
 						<true/>
 						<key>ZOrder</key>
@@ -448,57 +434,6 @@
 				</dict>
 				<key>bench</key>
 				<dict>
-					<key>DocumentSecurityImageBookmark</key>
-					<data>
-					Ym9vawwFAAAAAAQQMAAAAAAAAAAAAAAAAAAA
-					AAAAAAAAAAAAAAAAAAAAAAAAAAAA5AMAAAUA
-					AAABAQAAVXNlcnMAAAAKAAAAAQEAAGhlbG15
-					X2lNYWMAAAkAAAABAQAARG9jdW1lbnRzAAAA
-					DgAAAAEBAABYQ29kZSBQcm9qZWN0cwAAEAAA
-					AAEBAABDb2NvczJkIFByb2plY3RzCgAAAAEB
-					AABEZWFkUmVzY3VlAAAJAAAAAQEAAFJlc291
-					cmNlcwAAAAsAAAABAQAAbGV2ZWxIZWxwZXIA
-					BgAAAAEBAABsZXZlbDMAAAkAAAABAQAAYmVu
-					Y2gucG5nAAAALAAAAAEGAAAEAAAAFAAAACgA
-					AAA8AAAAVAAAAGwAAABsAAAAgAAAAJQAAACo
-					AAAAuAAAAAgAAAAEAwAAPpgAAAAAAAAIAAAA
-					BAMAACt/CAAAAAAACAAAAAQDAAA4fwgAAAAA
-					AAgAAAAEAwAA7lWcAAAAAAAIAAAABAMAAAxT
-					oAAAAAAACAAAAAQDAAC3WbEAAAAAAAgAAAAE
-					AwAAulmxAAAAAAAIAAAABAMAALtZsQAAAAAA
-					CAAAAAQDAABlYrEAAAAAAAgAAAAEAwAAaWKx
-					AAAAAAAIAAAABAMAAGxisQAAAAAALAAAAAEG
-					AAAAAQAAEAEAACABAAAwAQAAQAEAAFABAABg
-					AQAAcAEAAIABAACQAQAAoAEAAAgAAAAABAAA
-					QbaFGCIAAAAYAAAAAQIAAAEAAAAAAAAADwAA
-					AAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMD
-					AAABAAAACAAAAAQDAAAJAAAAAAAAAAQAAAAD
-					AwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhE
-					CAAAAAQDAAAAgJyt6AAAAAgAAAAABAAAQbMP
-					o9oAAAAkAAAAAQEAAEVDQzg1NDg4LThBQUEt
-					M0YyRS05QUFGLTcxMkEwQTQ2REU1MRgAAAAB
-					AgAAgQAAAAEACADvPwAAAQAIAAAAAAAAAAAA
-					AQAAAAEBAAAvAAAABAAAAAMDAAAAAQAAAAEA
-					AAECAAAzMzRlOTYyMWQ3MDRlNjE4Y2U2YzQw
-					YjE3ZmQ5NWUyNjRhMjAxZDk1OzAwMDAwMDAw
-					OzAwMDAwMDAwMDAwMDAwMjA7Y29tLmFwcGxl
-					LmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7MDAw
-					MDAwMDE7MDEwMDAwMDM7MDAwMDAwMDAwMGIx
-					NjI2YzsvdXNlcnMvaGVsbXlfaW1hYy9kb2N1
-					bWVudHMveGNvZGUgcHJvamVjdHMvY29jb3My
-					ZCBwcm9qZWN0cy9kZWFkcmVzY3VlL2RlYWRy
-					ZXNjdWUvcmVzb3VyY2VzL2xldmVsaGVscGVy
-					L2xldmVsMy9iZW5jaC5wbmcA8AAAAP7///8B
-					AAAAAAAAABMAAAAEEAAAzAAAAAAAAAAFEAAA
-					sAEAAAAAAAAQEAAA9AEAAAAAAABAEAAA5AEA
-					AAAAAABUEAAAHAIAAAAAAABVEAAAHAIAAAAA
-					AABWEAAAFAIAAAAAAAACIAAAxAIAAAAAAAAQ
-					IAAARAIAAAAAAAARIAAAeAIAAAAAAAASIAAA
-					WAIAAAAAAAATIAAAaAIAAAAAAAAgIAAApAIA
-					AAAAAAAwIAAAFAIAAAAAAAABwAAAKAIAAAAA
-					AAARwAAAFAAAAAAAAAASwAAAOAIAAAAAAAAQ
-					0AAA0AIAAAAAAACA8AAA3AIAAAAAAAA=
-					</data>
 					<key>IsSHSprite</key>
 					<true/>
 					<key>PhysicProperties</key>
@@ -661,7 +596,7 @@
 									<string>{2, 67}</string>
 									<string>{0, 68}</string>
 									<string>{0, 73}</string>
-									<string>{2, 75}</string>
+									<string>{1.9999999999999998, 75}</string>
 									<string>{13, 75}</string>
 									<string>{18, 69}</string>
 									<string>{105, 69}</string>
@@ -742,7 +677,7 @@
 						<key>OriginalImage</key>
 						<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue/DeadRescue/Resources/levelHelper/level3/bench.png</string>
 						<key>OriginalImage_RelativePath</key>
-						<string>bench.png/</string>
+						<string>../../levelHelper/level3/bench.png/</string>
 						<key>OriginalRect</key>
 						<string>{{0, 0}, {125, 76}}</string>
 						<key>OriginalSize</key>
@@ -767,57 +702,6 @@
 				</dict>
 				<key>bigBush</key>
 				<dict>
-					<key>DocumentSecurityImageBookmark</key>
-					<data>
-					Ym9vaxAFAAAAAAQQMAAAAAAAAAAAAAAAAAAA
-					AAAAAAAAAAAAAAAAAAAAAAAAAAAA6AMAAAUA
-					AAABAQAAVXNlcnMAAAAKAAAAAQEAAGhlbG15
-					X2lNYWMAAAkAAAABAQAARG9jdW1lbnRzAAAA
-					DgAAAAEBAABYQ29kZSBQcm9qZWN0cwAAEAAA
-					AAEBAABDb2NvczJkIFByb2plY3RzCgAAAAEB
-					AABEZWFkUmVzY3VlAAAJAAAAAQEAAFJlc291
-					cmNlcwAAAAsAAAABAQAAbGV2ZWxIZWxwZXIA
-					BgAAAAEBAABsZXZlbDMAAAsAAAABAQAAYmln
-					QnVzaC5wbmcALAAAAAEGAAAEAAAAFAAAACgA
-					AAA8AAAAVAAAAGwAAABsAAAAgAAAAJQAAACo
-					AAAAuAAAAAgAAAAEAwAAPpgAAAAAAAAIAAAA
-					BAMAACt/CAAAAAAACAAAAAQDAAA4fwgAAAAA
-					AAgAAAAEAwAA7lWcAAAAAAAIAAAABAMAAAxT
-					oAAAAAAACAAAAAQDAAC3WbEAAAAAAAgAAAAE
-					AwAAulmxAAAAAAAIAAAABAMAALtZsQAAAAAA
-					CAAAAAQDAABlYrEAAAAAAAgAAAAEAwAAaWKx
-					AAAAAAAIAAAABAMAAG5isQAAAAAALAAAAAEG
-					AAAAAQAAEAEAACABAAAwAQAAQAEAAFABAABg
-					AQAAcAEAAIABAACQAQAAoAEAAAgAAAAABAAA
-					QbaFGCIAAAAYAAAAAQIAAAEAAAAAAAAADwAA
-					AAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMD
-					AAABAAAACAAAAAQDAAAJAAAAAAAAAAQAAAAD
-					AwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhE
-					CAAAAAQDAAAAgJyt6AAAAAgAAAAABAAAQbMP
-					o9oAAAAkAAAAAQEAAEVDQzg1NDg4LThBQUEt
-					M0YyRS05QUFGLTcxMkEwQTQ2REU1MRgAAAAB
-					AgAAgQAAAAEACADvPwAAAQAIAAAAAAAAAAAA
-					AQAAAAEBAAAvAAAABAAAAAMDAAAAAQAAAgEA
-					AAECAAA4ZjJjMGZkZjA2OTRjZGM2Mjg1YjAz
-					OThkOGJlYjQ5OGZlNTI4ZTMzOzAwMDAwMDAw
-					OzAwMDAwMDAwMDAwMDAwMjA7Y29tLmFwcGxl
-					LmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7MDAw
-					MDAwMDE7MDEwMDAwMDM7MDAwMDAwMDAwMGIx
-					NjI2ZTsvdXNlcnMvaGVsbXlfaW1hYy9kb2N1
-					bWVudHMveGNvZGUgcHJvamVjdHMvY29jb3My
-					ZCBwcm9qZWN0cy9kZWFkcmVzY3VlL2RlYWRy
-					ZXNjdWUvcmVzb3VyY2VzL2xldmVsaGVscGVy
-					L2xldmVsMy9iaWdidXNoLnBuZwAAAPAAAAD+
-					////AQAAAAAAAAATAAAABBAAAMwAAAAAAAAA
-					BRAAALABAAAAAAAAEBAAAPQBAAAAAAAAQBAA
-					AOQBAAAAAAAAVBAAABwCAAAAAAAAVRAAABwC
-					AAAAAAAAVhAAABQCAAAAAAAAAiAAAMQCAAAA
-					AAAAECAAAEQCAAAAAAAAESAAAHgCAAAAAAAA
-					EiAAAFgCAAAAAAAAEyAAAGgCAAAAAAAAICAA
-					AKQCAAAAAAAAMCAAABQCAAAAAAAAAcAAACgC
-					AAAAAAAAEcAAABQAAAAAAAAAEsAAADgCAAAA
-					AAAAENAAANACAAAAAAAAgPAAANwCAAAAAAAA
-					</data>
 					<key>IsSHSprite</key>
 					<true/>
 					<key>PhysicProperties</key>
@@ -995,9 +879,9 @@
 						<key>FlipY</key>
 						<false/>
 						<key>Frame</key>
-						<string>{{642, 2}, {122, 124}}</string>
+						<string>{{642, 0}, {122, 124}}</string>
 						<key>Frame-HD</key>
-						<string>{{1284, 4}, {244, 248}}</string>
+						<string>{{1284, 0}, {244, 248}}</string>
 						<key>Image</key>
 						<string>level3Sprites_objects.png</string>
 						<key>Image-HD</key>
@@ -1017,13 +901,13 @@
 						<key>OriginalImage</key>
 						<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue/DeadRescue/Resources/levelHelper/level3/bigBush.png</string>
 						<key>OriginalImage_RelativePath</key>
-						<string>bigBush.png/</string>
+						<string>../../levelHelper/level3/bigBush.png/</string>
 						<key>OriginalRect</key>
 						<string>{{0, 0}, {244, 248}}</string>
 						<key>OriginalSize</key>
 						<string>{244, 248}</string>
 						<key>Position</key>
-						<string>{1284, 4}</string>
+						<string>{1284, 0}</string>
 						<key>Scale</key>
 						<string>{1, 1}</string>
 						<key>SpriteSize</key>
@@ -1042,58 +926,6 @@
 				</dict>
 				<key>centerTree</key>
 				<dict>
-					<key>DocumentSecurityImageBookmark</key>
-					<data>
-					Ym9vaxgFAAAAAAQQMAAAAAAAAAAAAAAAAAAA
-					AAAAAAAAAAAAAAAAAAAAAAAAAAAA8AMAAAUA
-					AAABAQAAVXNlcnMAAAAKAAAAAQEAAGhlbG15
-					X2lNYWMAAAkAAAABAQAARG9jdW1lbnRzAAAA
-					DgAAAAEBAABYQ29kZSBQcm9qZWN0cwAAEAAA
-					AAEBAABDb2NvczJkIFByb2plY3RzCgAAAAEB
-					AABEZWFkUmVzY3VlAAAJAAAAAQEAAFJlc291
-					cmNlcwAAAAsAAAABAQAAbGV2ZWxIZWxwZXIA
-					BgAAAAEBAABsZXZlbDMAAA4AAAABAQAAY2Vu
-					dGVyVHJlZS5wbmcAACwAAAABBgAABAAAABQA
-					AAAoAAAAPAAAAFQAAABsAAAAbAAAAIAAAACU
-					AAAAqAAAALgAAAAIAAAABAMAAD6YAAAAAAAA
-					CAAAAAQDAAArfwgAAAAAAAgAAAAEAwAAOH8I
-					AAAAAAAIAAAABAMAAO5VnAAAAAAACAAAAAQD
-					AAAMU6AAAAAAAAgAAAAEAwAAt1mxAAAAAAAI
-					AAAABAMAALpZsQAAAAAACAAAAAQDAAC7WbEA
-					AAAAAAgAAAAEAwAAZWKxAAAAAAAIAAAABAMA
-					AGlisQAAAAAACAAAAAQDAAByYrEAAAAAACwA
-					AAABBgAABAEAABQBAAAkAQAANAEAAEQBAABU
-					AQAAZAEAAHQBAACEAQAAlAEAAKQBAAAIAAAA
-					AAQAAEG2hRgiAAAAGAAAAAECAAABAAAAAAAA
-					AA8AAAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQA
-					AAADAwAAAQAAAAgAAAAEAwAACQAAAAAAAAAE
-					AAAAAwMAAPUBAAAMAAAAAQEAAE1hY2ludG9z
-					aCBIRAgAAAAEAwAAAICcregAAAAIAAAAAAQA
-					AEGzD6PaAAAAJAAAAAEBAABFQ0M4NTQ4OC04
-					QUFBLTNGMkUtOUFBRi03MTJBMEE0NkRFNTEY
-					AAAAAQIAAIEAAAABAAgA7z8AAAEACAAAAAAA
-					AAAAAAEAAAABAQAALwAAAAQAAAADAwAAAAEA
-					AAUBAAABAgAANmRlMWNlZTRhNWJkZmFjMTdi
-					Y2JlMmQzZGJhOGJiMzU4MGNjZGQ1ZDswMDAw
-					MDAwMDswMDAwMDAwMDAwMDAwMDIwO2NvbS5h
-					cHBsZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRl
-					OzAwMDAwMDAxOzAxMDAwMDAzOzAwMDAwMDAw
-					MDBiMTYyNzI7L3VzZXJzL2hlbG15X2ltYWMv
-					ZG9jdW1lbnRzL3hjb2RlIHByb2plY3RzL2Nv
-					Y29zMmQgcHJvamVjdHMvZGVhZHJlc2N1ZS9k
-					ZWFkcmVzY3VlL3Jlc291cmNlcy9sZXZlbGhl
-					bHBlci9sZXZlbDMvY2VudGVydHJlZS5wbmcA
-					AAAA8AAAAP7///8BAAAAAAAAABMAAAAEEAAA
-					0AAAAAAAAAAFEAAAtAEAAAAAAAAQEAAA+AEA
-					AAAAAABAEAAA6AEAAAAAAABUEAAAIAIAAAAA
-					AABVEAAAIAIAAAAAAABWEAAAGAIAAAAAAAAC
-					IAAAyAIAAAAAAAAQIAAASAIAAAAAAAARIAAA
-					fAIAAAAAAAASIAAAXAIAAAAAAAATIAAAbAIA
-					AAAAAAAgIAAAqAIAAAAAAAAwIAAAGAIAAAAA
-					AAABwAAALAIAAAAAAAARwAAAFAAAAAAAAAAS
-					wAAAPAIAAAAAAAAQ0AAA1AIAAAAAAACA8AAA
-					4AIAAAAAAAA=
-					</data>
 					<key>IsSHSprite</key>
 					<true/>
 					<key>PhysicProperties</key>
@@ -1267,7 +1099,7 @@
 						<key>OriginalImage</key>
 						<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue/DeadRescue/Resources/levelHelper/level3/centerTree.png</string>
 						<key>OriginalImage_RelativePath</key>
-						<string>centerTree.png/</string>
+						<string>../../levelHelper/level3/centerTree.png/</string>
 						<key>OriginalRect</key>
 						<string>{{0, 0}, {255, 307}}</string>
 						<key>OriginalSize</key>
@@ -1292,57 +1124,6 @@
 				</dict>
 				<key>fountain</key>
 				<dict>
-					<key>DocumentSecurityImageBookmark</key>
-					<data>
-					Ym9vaxAFAAAAAAQQMAAAAAAAAAAAAAAAAAAA
-					AAAAAAAAAAAAAAAAAAAAAAAAAAAA6AMAAAUA
-					AAABAQAAVXNlcnMAAAAKAAAAAQEAAGhlbG15
-					X2lNYWMAAAkAAAABAQAARG9jdW1lbnRzAAAA
-					DgAAAAEBAABYQ29kZSBQcm9qZWN0cwAAEAAA
-					AAEBAABDb2NvczJkIFByb2plY3RzCgAAAAEB
-					AABEZWFkUmVzY3VlAAAJAAAAAQEAAFJlc291
-					cmNlcwAAAAsAAAABAQAAbGV2ZWxIZWxwZXIA
-					BgAAAAEBAABsZXZlbDMAAAwAAAABAQAAZm91
-					bnRhaW4ucG5nLAAAAAEGAAAEAAAAFAAAACgA
-					AAA8AAAAVAAAAGwAAABsAAAAgAAAAJQAAACo
-					AAAAuAAAAAgAAAAEAwAAPpgAAAAAAAAIAAAA
-					BAMAACt/CAAAAAAACAAAAAQDAAA4fwgAAAAA
-					AAgAAAAEAwAA7lWcAAAAAAAIAAAABAMAAAxT
-					oAAAAAAACAAAAAQDAAC3WbEAAAAAAAgAAAAE
-					AwAAulmxAAAAAAAIAAAABAMAALtZsQAAAAAA
-					CAAAAAQDAABlYrEAAAAAAAgAAAAEAwAAaWKx
-					AAAAAAAIAAAABAMAAHNisQAAAAAALAAAAAEG
-					AAAAAQAAEAEAACABAAAwAQAAQAEAAFABAABg
-					AQAAcAEAAIABAACQAQAAoAEAAAgAAAAABAAA
-					QbaFGCIAAAAYAAAAAQIAAAEAAAAAAAAADwAA
-					AAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMD
-					AAABAAAACAAAAAQDAAAJAAAAAAAAAAQAAAAD
-					AwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhE
-					CAAAAAQDAAAAgJyt6AAAAAgAAAAABAAAQbMP
-					o9oAAAAkAAAAAQEAAEVDQzg1NDg4LThBQUEt
-					M0YyRS05QUFGLTcxMkEwQTQ2REU1MRgAAAAB
-					AgAAgQAAAAEACADvPwAAAQAIAAAAAAAAAAAA
-					AQAAAAEBAAAvAAAABAAAAAMDAAAAAQAAAwEA
-					AAECAAAyZWU1ODhkOTRlMTQwM2MxYWM2MGFi
-					Mzc0OWUyZmFkNDU3ODZiMDkyOzAwMDAwMDAw
-					OzAwMDAwMDAwMDAwMDAwMjA7Y29tLmFwcGxl
-					LmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7MDAw
-					MDAwMDE7MDEwMDAwMDM7MDAwMDAwMDAwMGIx
-					NjI3MzsvdXNlcnMvaGVsbXlfaW1hYy9kb2N1
-					bWVudHMveGNvZGUgcHJvamVjdHMvY29jb3My
-					ZCBwcm9qZWN0cy9kZWFkcmVzY3VlL2RlYWRy
-					ZXNjdWUvcmVzb3VyY2VzL2xldmVsaGVscGVy
-					L2xldmVsMy9mb3VudGFpbi5wbmcAAPAAAAD+
-					////AQAAAAAAAAATAAAABBAAAMwAAAAAAAAA
-					BRAAALABAAAAAAAAEBAAAPQBAAAAAAAAQBAA
-					AOQBAAAAAAAAVBAAABwCAAAAAAAAVRAAABwC
-					AAAAAAAAVhAAABQCAAAAAAAAAiAAAMQCAAAA
-					AAAAECAAAEQCAAAAAAAAESAAAHgCAAAAAAAA
-					EiAAAFgCAAAAAAAAEyAAAGgCAAAAAAAAICAA
-					AKQCAAAAAAAAMCAAABQCAAAAAAAAAcAAACgC
-					AAAAAAAAEcAAABQAAAAAAAAAEsAAADgCAAAA
-					AAAAENAAANACAAAAAAAAgPAAANwCAAAAAAAA
-					</data>
 					<key>IsSHSprite</key>
 					<true/>
 					<key>PhysicProperties</key>
@@ -1454,9 +1235,9 @@
 						<key>FlipY</key>
 						<false/>
 						<key>Frame</key>
-						<string>{{644, 200}, {29.5, 51}}</string>
+						<string>{{642, 200}, {29.5, 51}}</string>
 						<key>Frame-HD</key>
-						<string>{{1288, 400}, {59, 102}}</string>
+						<string>{{1284, 400}, {59, 102}}</string>
 						<key>Image</key>
 						<string>level3Sprites_objects.png</string>
 						<key>Image-HD</key>
@@ -1476,13 +1257,13 @@
 						<key>OriginalImage</key>
 						<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue/DeadRescue/Resources/levelHelper/level3/fountain.png</string>
 						<key>OriginalImage_RelativePath</key>
-						<string>fountain.png/</string>
+						<string>../../levelHelper/level3/fountain.png/</string>
 						<key>OriginalRect</key>
 						<string>{{0, 0}, {59, 102}}</string>
 						<key>OriginalSize</key>
 						<string>{59, 102}</string>
 						<key>Position</key>
-						<string>{1288, 400}</string>
+						<string>{1284, 400}</string>
 						<key>Scale</key>
 						<string>{1, 1}</string>
 						<key>SpriteSize</key>
@@ -1501,57 +1282,6 @@
 				</dict>
 				<key>leftRail</key>
 				<dict>
-					<key>DocumentSecurityImageBookmark</key>
-					<data>
-					Ym9vaxAFAAAAAAQQMAAAAAAAAAAAAAAAAAAA
-					AAAAAAAAAAAAAAAAAAAAAAAAAAAA6AMAAAUA
-					AAABAQAAVXNlcnMAAAAKAAAAAQEAAGhlbG15
-					X2lNYWMAAAkAAAABAQAARG9jdW1lbnRzAAAA
-					DgAAAAEBAABYQ29kZSBQcm9qZWN0cwAAEAAA
-					AAEBAABDb2NvczJkIFByb2plY3RzCgAAAAEB
-					AABEZWFkUmVzY3VlAAAJAAAAAQEAAFJlc291
-					cmNlcwAAAAsAAAABAQAAbGV2ZWxIZWxwZXIA
-					BgAAAAEBAABsZXZlbDMAAAwAAAABAQAAbGVm
-					dFJhaWwucG5nLAAAAAEGAAAEAAAAFAAAACgA
-					AAA8AAAAVAAAAGwAAABsAAAAgAAAAJQAAACo
-					AAAAuAAAAAgAAAAEAwAAPpgAAAAAAAAIAAAA
-					BAMAACt/CAAAAAAACAAAAAQDAAA4fwgAAAAA
-					AAgAAAAEAwAA7lWcAAAAAAAIAAAABAMAAAxT
-					oAAAAAAACAAAAAQDAAC3WbEAAAAAAAgAAAAE
-					AwAAulmxAAAAAAAIAAAABAMAALtZsQAAAAAA
-					CAAAAAQDAABlYrEAAAAAAAgAAAAEAwAAaWKx
-					AAAAAAAIAAAABAMAAHRisQAAAAAALAAAAAEG
-					AAAAAQAAEAEAACABAAAwAQAAQAEAAFABAABg
-					AQAAcAEAAIABAACQAQAAoAEAAAgAAAAABAAA
-					QbaFGCIAAAAYAAAAAQIAAAEAAAAAAAAADwAA
-					AAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMD
-					AAABAAAACAAAAAQDAAAJAAAAAAAAAAQAAAAD
-					AwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhE
-					CAAAAAQDAAAAgJyt6AAAAAgAAAAABAAAQbMP
-					o9oAAAAkAAAAAQEAAEVDQzg1NDg4LThBQUEt
-					M0YyRS05QUFGLTcxMkEwQTQ2REU1MRgAAAAB
-					AgAAgQAAAAEACADvPwAAAQAIAAAAAAAAAAAA
-					AQAAAAEBAAAvAAAABAAAAAMDAAAAAQAAAwEA
-					AAECAABjMDI0MWEyMDVhMzk2ODZhOTYyMjZi
-					NTdmZjg3M2RlODY2OGMxZTMyOzAwMDAwMDAw
-					OzAwMDAwMDAwMDAwMDAwMjA7Y29tLmFwcGxl
-					LmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7MDAw
-					MDAwMDE7MDEwMDAwMDM7MDAwMDAwMDAwMGIx
-					NjI3NDsvdXNlcnMvaGVsbXlfaW1hYy9kb2N1
-					bWVudHMveGNvZGUgcHJvamVjdHMvY29jb3My
-					ZCBwcm9qZWN0cy9kZWFkcmVzY3VlL2RlYWRy
-					ZXNjdWUvcmVzb3VyY2VzL2xldmVsaGVscGVy
-					L2xldmVsMy9sZWZ0cmFpbC5wbmcAAPAAAAD+
-					////AQAAAAAAAAATAAAABBAAAMwAAAAAAAAA
-					BRAAALABAAAAAAAAEBAAAPQBAAAAAAAAQBAA
-					AOQBAAAAAAAAVBAAABwCAAAAAAAAVRAAABwC
-					AAAAAAAAVhAAABQCAAAAAAAAAiAAAMQCAAAA
-					AAAAECAAAEQCAAAAAAAAESAAAHgCAAAAAAAA
-					EiAAAFgCAAAAAAAAEyAAAGgCAAAAAAAAICAA
-					AKQCAAAAAAAAMCAAABQCAAAAAAAAAcAAACgC
-					AAAAAAAAEcAAABQAAAAAAAAAEsAAADgCAAAA
-					AAAAENAAANACAAAAAAAAgPAAANwCAAAAAAAA
-					</data>
 					<key>IsSHSprite</key>
 					<true/>
 					<key>PhysicProperties</key>
@@ -1673,9 +1403,9 @@
 						<key>FlipY</key>
 						<false/>
 						<key>Frame</key>
-						<string>{{674, 216}, {32, 14}}</string>
+						<string>{{674, 200}, {32, 14}}</string>
 						<key>Frame-HD</key>
-						<string>{{1348, 432}, {64, 28}}</string>
+						<string>{{1348, 400}, {64, 28}}</string>
 						<key>Image</key>
 						<string>level3Sprites_objects.png</string>
 						<key>Image-HD</key>
@@ -1695,13 +1425,13 @@
 						<key>OriginalImage</key>
 						<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue/DeadRescue/Resources/levelHelper/level3/leftRail.png</string>
 						<key>OriginalImage_RelativePath</key>
-						<string>leftRail.png/</string>
+						<string>../../levelHelper/level3/leftRail.png/</string>
 						<key>OriginalRect</key>
 						<string>{{0, 0}, {64, 28}}</string>
 						<key>OriginalSize</key>
 						<string>{64, 28}</string>
 						<key>Position</key>
-						<string>{1348, 432}</string>
+						<string>{1348, 400}</string>
 						<key>Scale</key>
 						<string>{1, 1}</string>
 						<key>SpriteSize</key>
@@ -1720,57 +1450,6 @@
 				</dict>
 				<key>log</key>
 				<dict>
-					<key>DocumentSecurityImageBookmark</key>
-					<data>
-					Ym9vawgFAAAAAAQQMAAAAAAAAAAAAAAAAAAA
-					AAAAAAAAAAAAAAAAAAAAAAAAAAAA4AMAAAUA
-					AAABAQAAVXNlcnMAAAAKAAAAAQEAAGhlbG15
-					X2lNYWMAAAkAAAABAQAARG9jdW1lbnRzAAAA
-					DgAAAAEBAABYQ29kZSBQcm9qZWN0cwAAEAAA
-					AAEBAABDb2NvczJkIFByb2plY3RzCgAAAAEB
-					AABEZWFkUmVzY3VlAAAJAAAAAQEAAFJlc291
-					cmNlcwAAAAsAAAABAQAAbGV2ZWxIZWxwZXIA
-					BgAAAAEBAABsZXZlbDMAAAcAAAABAQAAbG9n
-					LnBuZwAsAAAAAQYAAAQAAAAUAAAAKAAAADwA
-					AABUAAAAbAAAAGwAAACAAAAAlAAAAKgAAAC4
-					AAAACAAAAAQDAAA+mAAAAAAAAAgAAAAEAwAA
-					K38IAAAAAAAIAAAABAMAADh/CAAAAAAACAAA
-					AAQDAADuVZwAAAAAAAgAAAAEAwAADFOgAAAA
-					AAAIAAAABAMAALdZsQAAAAAACAAAAAQDAAC6
-					WbEAAAAAAAgAAAAEAwAAu1mxAAAAAAAIAAAA
-					BAMAAGVisQAAAAAACAAAAAQDAABpYrEAAAAA
-					AAgAAAAEAwAAeGKxAAAAAAAsAAAAAQYAAPwA
-					AAAMAQAAHAEAACwBAAA8AQAATAEAAFwBAABs
-					AQAAfAEAAIwBAACcAQAACAAAAAAEAABBtoUY
-					IgAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAA
-					AAAAAAAAAAAAAAAAAAEFAAAEAAAAAwMAAAEA
-					AAAIAAAABAMAAAkAAAAAAAAABAAAAAMDAAD1
-					AQAADAAAAAEBAABNYWNpbnRvc2ggSEQIAAAA
-					BAMAAACAnK3oAAAACAAAAAAEAABBsw+j2gAA
-					ACQAAAABAQAARUNDODU0ODgtOEFBQS0zRjJF
-					LTlBQUYtNzEyQTBBNDZERTUxGAAAAAECAACB
-					AAAAAQAIAO8/AAABAAgAAAAAAAAAAAABAAAA
-					AQEAAC8AAAAEAAAAAwMAAAABAAD+AAAAAQIA
-					ADQyMjJlYWU3ZTUwYjY3NWNjMTkyMjU2OGFm
-					M2NlYmYxMzA3ZWFlNjE7MDAwMDAwMDA7MDAw
-					MDAwMDAwMDAwMDAyMDtjb20uYXBwbGUuYXBw
-					LXNhbmRib3gucmVhZC13cml0ZTswMDAwMDAw
-					MTswMTAwMDAwMzswMDAwMDAwMDAwYjE2Mjc4
-					Oy91c2Vycy9oZWxteV9pbWFjL2RvY3VtZW50
-					cy94Y29kZSBwcm9qZWN0cy9jb2NvczJkIHBy
-					b2plY3RzL2RlYWRyZXNjdWUvZGVhZHJlc2N1
-					ZS9yZXNvdXJjZXMvbGV2ZWxoZWxwZXIvbGV2
-					ZWwzL2xvZy5wbmcAAADwAAAA/v///wEAAAAA
-					AAAAEwAAAAQQAADIAAAAAAAAAAUQAACsAQAA
-					AAAAABAQAADwAQAAAAAAAEAQAADgAQAAAAAA
-					AFQQAAAYAgAAAAAAAFUQAAAYAgAAAAAAAFYQ
-					AAAQAgAAAAAAAAIgAADAAgAAAAAAABAgAABA
-					AgAAAAAAABEgAAB0AgAAAAAAABIgAABUAgAA
-					AAAAABMgAABkAgAAAAAAACAgAACgAgAAAAAA
-					ADAgAAAQAgAAAAAAAAHAAAAkAgAAAAAAABHA
-					AAAUAAAAAAAAABLAAAA0AgAAAAAAABDQAADM
-					AgAAAAAAAIDwAADYAgAAAAAAAA==
-					</data>
 					<key>IsSHSprite</key>
 					<true/>
 					<key>PhysicProperties</key>
@@ -1911,7 +1590,7 @@
 									<string>{185, 61}</string>
 									<string>{177, 62}</string>
 									<string>{18, 62.100000000000001}</string>
-									<string>{2, 61}</string>
+									<string>{1.9999999999999998, 61}</string>
 									<string>{0, 59}</string>
 								</array>
 								<key>ShapePositionOffset</key>
@@ -1974,7 +1653,7 @@
 						<key>OriginalImage</key>
 						<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue/DeadRescue/Resources/levelHelper/level3/log.png</string>
 						<key>OriginalImage_RelativePath</key>
-						<string>log.png/</string>
+						<string>../../levelHelper/level3/log.png/</string>
 						<key>OriginalRect</key>
 						<string>{{0, 0}, {188, 63}}</string>
 						<key>OriginalSize</key>
@@ -1999,58 +1678,6 @@
 				</dict>
 				<key>rightRail</key>
 				<dict>
-					<key>DocumentSecurityImageBookmark</key>
-					<data>
-					Ym9vaxQFAAAAAAQQMAAAAAAAAAAAAAAAAAAA
-					AAAAAAAAAAAAAAAAAAAAAAAAAAAA7AMAAAUA
-					AAABAQAAVXNlcnMAAAAKAAAAAQEAAGhlbG15
-					X2lNYWMAAAkAAAABAQAARG9jdW1lbnRzAAAA
-					DgAAAAEBAABYQ29kZSBQcm9qZWN0cwAAEAAA
-					AAEBAABDb2NvczJkIFByb2plY3RzCgAAAAEB
-					AABEZWFkUmVzY3VlAAAJAAAAAQEAAFJlc291
-					cmNlcwAAAAsAAAABAQAAbGV2ZWxIZWxwZXIA
-					BgAAAAEBAABsZXZlbDMAAA0AAAABAQAAcmln
-					aHRSYWlsLnBuZwAAACwAAAABBgAABAAAABQA
-					AAAoAAAAPAAAAFQAAABsAAAAbAAAAIAAAACU
-					AAAAqAAAALgAAAAIAAAABAMAAD6YAAAAAAAA
-					CAAAAAQDAAArfwgAAAAAAAgAAAAEAwAAOH8I
-					AAAAAAAIAAAABAMAAO5VnAAAAAAACAAAAAQD
-					AAAMU6AAAAAAAAgAAAAEAwAAt1mxAAAAAAAI
-					AAAABAMAALpZsQAAAAAACAAAAAQDAAC7WbEA
-					AAAAAAgAAAAEAwAAZWKxAAAAAAAIAAAABAMA
-					AGlisQAAAAAACAAAAAQDAAB9YrEAAAAAACwA
-					AAABBgAABAEAABQBAAAkAQAANAEAAEQBAABU
-					AQAAZAEAAHQBAACEAQAAlAEAAKQBAAAIAAAA
-					AAQAAEG2hRgiAAAAGAAAAAECAAABAAAAAAAA
-					AA8AAAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQA
-					AAADAwAAAQAAAAgAAAAEAwAACQAAAAAAAAAE
-					AAAAAwMAAPUBAAAMAAAAAQEAAE1hY2ludG9z
-					aCBIRAgAAAAEAwAAAICcregAAAAIAAAAAAQA
-					AEGzD6PaAAAAJAAAAAEBAABFQ0M4NTQ4OC04
-					QUFBLTNGMkUtOUFBRi03MTJBMEE0NkRFNTEY
-					AAAAAQIAAIEAAAABAAgA7z8AAAEACAAAAAAA
-					AAAAAAEAAAABAQAALwAAAAQAAAADAwAAAAEA
-					AAQBAAABAgAAZmUwNjI4ZGEzOTJhMGE5ZTQ2
-					NTQ1MGQ3ZTVlMGRhMzc5ZjdiYTA1NTswMDAw
-					MDAwMDswMDAwMDAwMDAwMDAwMDIwO2NvbS5h
-					cHBsZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRl
-					OzAwMDAwMDAxOzAxMDAwMDAzOzAwMDAwMDAw
-					MDBiMTYyN2Q7L3VzZXJzL2hlbG15X2ltYWMv
-					ZG9jdW1lbnRzL3hjb2RlIHByb2plY3RzL2Nv
-					Y29zMmQgcHJvamVjdHMvZGVhZHJlc2N1ZS9k
-					ZWFkcmVzY3VlL3Jlc291cmNlcy9sZXZlbGhl
-					bHBlci9sZXZlbDMvcmlnaHRyYWlsLnBuZwDw
-					AAAA/v///wEAAAAAAAAAEwAAAAQQAADQAAAA
-					AAAAAAUQAAC0AQAAAAAAABAQAAD4AQAAAAAA
-					AEAQAADoAQAAAAAAAFQQAAAgAgAAAAAAAFUQ
-					AAAgAgAAAAAAAFYQAAAYAgAAAAAAAAIgAADI
-					AgAAAAAAABAgAABIAgAAAAAAABEgAAB8AgAA
-					AAAAABIgAABcAgAAAAAAABMgAABsAgAAAAAA
-					ACAgAACoAgAAAAAAADAgAAAYAgAAAAAAAAHA
-					AAAsAgAAAAAAABHAAAAUAAAAAAAAABLAAAA8
-					AgAAAAAAABDQAADUAgAAAAAAAIDwAADgAgAA
-					AAAAAA==
-					</data>
 					<key>IsSHSprite</key>
 					<true/>
 					<key>PhysicProperties</key>
@@ -2172,9 +1799,9 @@
 						<key>FlipY</key>
 						<false/>
 						<key>Frame</key>
-						<string>{{674, 200}, {32, 14}}</string>
+						<string>{{674, 216}, {32, 14}}</string>
 						<key>Frame-HD</key>
-						<string>{{1348, 400}, {64, 28}}</string>
+						<string>{{1348, 432}, {64, 28}}</string>
 						<key>Image</key>
 						<string>level3Sprites_objects.png</string>
 						<key>Image-HD</key>
@@ -2194,13 +1821,13 @@
 						<key>OriginalImage</key>
 						<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue/DeadRescue/Resources/levelHelper/level3/rightRail.png</string>
 						<key>OriginalImage_RelativePath</key>
-						<string>rightRail.png/</string>
+						<string>../../levelHelper/level3/rightRail.png/</string>
 						<key>OriginalRect</key>
 						<string>{{0, 0}, {64, 28}}</string>
 						<key>OriginalSize</key>
 						<string>{64, 28}</string>
 						<key>Position</key>
-						<string>{1348, 400}</string>
+						<string>{1348, 432}</string>
 						<key>Scale</key>
 						<string>{1, 1}</string>
 						<key>SpriteSize</key>
@@ -2219,57 +1846,6 @@
 				</dict>
 				<key>rocks</key>
 				<dict>
-					<key>DocumentSecurityImageBookmark</key>
-					<data>
-					Ym9vawwFAAAAAAQQMAAAAAAAAAAAAAAAAAAA
-					AAAAAAAAAAAAAAAAAAAAAAAAAAAA5AMAAAUA
-					AAABAQAAVXNlcnMAAAAKAAAAAQEAAGhlbG15
-					X2lNYWMAAAkAAAABAQAARG9jdW1lbnRzAAAA
-					DgAAAAEBAABYQ29kZSBQcm9qZWN0cwAAEAAA
-					AAEBAABDb2NvczJkIFByb2plY3RzCgAAAAEB
-					AABEZWFkUmVzY3VlAAAJAAAAAQEAAFJlc291
-					cmNlcwAAAAsAAAABAQAAbGV2ZWxIZWxwZXIA
-					BgAAAAEBAABsZXZlbDMAAAkAAAABAQAAcm9j
-					a3MucG5nAAAALAAAAAEGAAAEAAAAFAAAACgA
-					AAA8AAAAVAAAAGwAAABsAAAAgAAAAJQAAACo
-					AAAAuAAAAAgAAAAEAwAAPpgAAAAAAAAIAAAA
-					BAMAACt/CAAAAAAACAAAAAQDAAA4fwgAAAAA
-					AAgAAAAEAwAA7lWcAAAAAAAIAAAABAMAAAxT
-					oAAAAAAACAAAAAQDAAC3WbEAAAAAAAgAAAAE
-					AwAAulmxAAAAAAAIAAAABAMAALtZsQAAAAAA
-					CAAAAAQDAABlYrEAAAAAAAgAAAAEAwAAaWKx
-					AAAAAAAIAAAABAMAAH5isQAAAAAALAAAAAEG
-					AAAAAQAAEAEAACABAAAwAQAAQAEAAFABAABg
-					AQAAcAEAAIABAACQAQAAoAEAAAgAAAAABAAA
-					QbaFGCIAAAAYAAAAAQIAAAEAAAAAAAAADwAA
-					AAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMD
-					AAABAAAACAAAAAQDAAAJAAAAAAAAAAQAAAAD
-					AwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhE
-					CAAAAAQDAAAAgJyt6AAAAAgAAAAABAAAQbMP
-					o9oAAAAkAAAAAQEAAEVDQzg1NDg4LThBQUEt
-					M0YyRS05QUFGLTcxMkEwQTQ2REU1MRgAAAAB
-					AgAAgQAAAAEACADvPwAAAQAIAAAAAAAAAAAA
-					AQAAAAEBAAAvAAAABAAAAAMDAAAAAQAAAAEA
-					AAECAAAxYWVmNDE1NjliYWYyZTA4ODYwNGY5
-					NGI0ZGI1M2ExNGVhZTA3ZmYzOzAwMDAwMDAw
-					OzAwMDAwMDAwMDAwMDAwMjA7Y29tLmFwcGxl
-					LmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7MDAw
-					MDAwMDE7MDEwMDAwMDM7MDAwMDAwMDAwMGIx
-					NjI3ZTsvdXNlcnMvaGVsbXlfaW1hYy9kb2N1
-					bWVudHMveGNvZGUgcHJvamVjdHMvY29jb3My
-					ZCBwcm9qZWN0cy9kZWFkcmVzY3VlL2RlYWRy
-					ZXNjdWUvcmVzb3VyY2VzL2xldmVsaGVscGVy
-					L2xldmVsMy9yb2Nrcy5wbmcA8AAAAP7///8B
-					AAAAAAAAABMAAAAEEAAAzAAAAAAAAAAFEAAA
-					sAEAAAAAAAAQEAAA9AEAAAAAAABAEAAA5AEA
-					AAAAAABUEAAAHAIAAAAAAABVEAAAHAIAAAAA
-					AABWEAAAFAIAAAAAAAACIAAAxAIAAAAAAAAQ
-					IAAARAIAAAAAAAARIAAAeAIAAAAAAAASIAAA
-					WAIAAAAAAAATIAAAaAIAAAAAAAAgIAAApAIA
-					AAAAAAAwIAAAFAIAAAAAAAABwAAAKAIAAAAA
-					AAARwAAAFAAAAAAAAAASwAAAOAIAAAAAAAAQ
-					0AAA0AIAAAAAAACA8AAA3AIAAAAAAAA=
-					</data>
 					<key>IsSHSprite</key>
 					<true/>
 					<key>PhysicProperties</key>
@@ -2597,7 +2173,7 @@
 						<key>OriginalImage</key>
 						<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue/DeadRescue/Resources/levelHelper/level3/rocks.png</string>
 						<key>OriginalImage_RelativePath</key>
-						<string>rocks.png/</string>
+						<string>../../levelHelper/level3/rocks.png/</string>
 						<key>OriginalRect</key>
 						<string>{{0, 0}, {372, 234}}</string>
 						<key>OriginalSize</key>
@@ -2622,58 +2198,6 @@
 				</dict>
 				<key>smallBush</key>
 				<dict>
-					<key>DocumentSecurityImageBookmark</key>
-					<data>
-					Ym9vaxQFAAAAAAQQMAAAAAAAAAAAAAAAAAAA
-					AAAAAAAAAAAAAAAAAAAAAAAAAAAA7AMAAAUA
-					AAABAQAAVXNlcnMAAAAKAAAAAQEAAGhlbG15
-					X2lNYWMAAAkAAAABAQAARG9jdW1lbnRzAAAA
-					DgAAAAEBAABYQ29kZSBQcm9qZWN0cwAAEAAA
-					AAEBAABDb2NvczJkIFByb2plY3RzCgAAAAEB
-					AABEZWFkUmVzY3VlAAAJAAAAAQEAAFJlc291
-					cmNlcwAAAAsAAAABAQAAbGV2ZWxIZWxwZXIA
-					BgAAAAEBAABsZXZlbDMAAA0AAAABAQAAc21h
-					bGxCdXNoLnBuZwAAACwAAAABBgAABAAAABQA
-					AAAoAAAAPAAAAFQAAABsAAAAbAAAAIAAAACU
-					AAAAqAAAALgAAAAIAAAABAMAAD6YAAAAAAAA
-					CAAAAAQDAAArfwgAAAAAAAgAAAAEAwAAOH8I
-					AAAAAAAIAAAABAMAAO5VnAAAAAAACAAAAAQD
-					AAAMU6AAAAAAAAgAAAAEAwAAt1mxAAAAAAAI
-					AAAABAMAALpZsQAAAAAACAAAAAQDAAC7WbEA
-					AAAAAAgAAAAEAwAAZWKxAAAAAAAIAAAABAMA
-					AGlisQAAAAAACAAAAAQDAAB/YrEAAAAAACwA
-					AAABBgAABAEAABQBAAAkAQAANAEAAEQBAABU
-					AQAAZAEAAHQBAACEAQAAlAEAAKQBAAAIAAAA
-					AAQAAEG2hRgiAAAAGAAAAAECAAABAAAAAAAA
-					AA8AAAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQA
-					AAADAwAAAQAAAAgAAAAEAwAACQAAAAAAAAAE
-					AAAAAwMAAPUBAAAMAAAAAQEAAE1hY2ludG9z
-					aCBIRAgAAAAEAwAAAICcregAAAAIAAAAAAQA
-					AEGzD6PaAAAAJAAAAAEBAABFQ0M4NTQ4OC04
-					QUFBLTNGMkUtOUFBRi03MTJBMEE0NkRFNTEY
-					AAAAAQIAAIEAAAABAAgA7z8AAAEACAAAAAAA
-					AAAAAAEAAAABAQAALwAAAAQAAAADAwAAAAEA
-					AAQBAAABAgAAZGVhNWNmYmUyYzliMzQ3ZTk1
-					NDU2NDE4ZTk1ZDk3Yjg1YjI2Y2Y5NDswMDAw
-					MDAwMDswMDAwMDAwMDAwMDAwMDIwO2NvbS5h
-					cHBsZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRl
-					OzAwMDAwMDAxOzAxMDAwMDAzOzAwMDAwMDAw
-					MDBiMTYyN2Y7L3VzZXJzL2hlbG15X2ltYWMv
-					ZG9jdW1lbnRzL3hjb2RlIHByb2plY3RzL2Nv
-					Y29zMmQgcHJvamVjdHMvZGVhZHJlc2N1ZS9k
-					ZWFkcmVzY3VlL3Jlc291cmNlcy9sZXZlbGhl
-					bHBlci9sZXZlbDMvc21hbGxidXNoLnBuZwDw
-					AAAA/v///wEAAAAAAAAAEwAAAAQQAADQAAAA
-					AAAAAAUQAAC0AQAAAAAAABAQAAD4AQAAAAAA
-					AEAQAADoAQAAAAAAAFQQAAAgAgAAAAAAAFUQ
-					AAAgAgAAAAAAAFYQAAAYAgAAAAAAAAIgAADI
-					AgAAAAAAABAgAABIAgAAAAAAABEgAAB8AgAA
-					AAAAABIgAABcAgAAAAAAABMgAABsAgAAAAAA
-					ACAgAACoAgAAAAAAADAgAAAYAgAAAAAAAAHA
-					AAAsAgAAAAAAABHAAAAUAAAAAAAAABLAAAA8
-					AgAAAAAAABDQAADUAgAAAAAAAIDwAADgAgAA
-					AAAAAA==
-					</data>
 					<key>IsSHSprite</key>
 					<true/>
 					<key>PhysicProperties</key>
@@ -2847,7 +2371,7 @@
 						<key>OriginalImage</key>
 						<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue/DeadRescue/Resources/levelHelper/level3/smallBush.png</string>
 						<key>OriginalImage_RelativePath</key>
-						<string>smallBush.png/</string>
+						<string>../../levelHelper/level3/smallBush.png/</string>
 						<key>OriginalRect</key>
 						<string>{{0, 0}, {58, 57}}</string>
 						<key>OriginalSize</key>
@@ -2872,57 +2396,6 @@
 				</dict>
 				<key>trees</key>
 				<dict>
-					<key>DocumentSecurityImageBookmark</key>
-					<data>
-					Ym9vawwFAAAAAAQQMAAAAAAAAAAAAAAAAAAA
-					AAAAAAAAAAAAAAAAAAAAAAAAAAAA5AMAAAUA
-					AAABAQAAVXNlcnMAAAAKAAAAAQEAAGhlbG15
-					X2lNYWMAAAkAAAABAQAARG9jdW1lbnRzAAAA
-					DgAAAAEBAABYQ29kZSBQcm9qZWN0cwAAEAAA
-					AAEBAABDb2NvczJkIFByb2plY3RzCgAAAAEB
-					AABEZWFkUmVzY3VlAAAJAAAAAQEAAFJlc291
-					cmNlcwAAAAsAAAABAQAAbGV2ZWxIZWxwZXIA
-					BgAAAAEBAABsZXZlbDMAAAkAAAABAQAAdHJl
-					ZXMucG5nAAAALAAAAAEGAAAEAAAAFAAAACgA
-					AAA8AAAAVAAAAGwAAABsAAAAgAAAAJQAAACo
-					AAAAuAAAAAgAAAAEAwAAPpgAAAAAAAAIAAAA
-					BAMAACt/CAAAAAAACAAAAAQDAAA4fwgAAAAA
-					AAgAAAAEAwAA7lWcAAAAAAAIAAAABAMAAAxT
-					oAAAAAAACAAAAAQDAAC3WbEAAAAAAAgAAAAE
-					AwAAulmxAAAAAAAIAAAABAMAALtZsQAAAAAA
-					CAAAAAQDAABlYrEAAAAAAAgAAAAEAwAAaWKx
-					AAAAAAAIAAAABAMAAIBisQAAAAAALAAAAAEG
-					AAAAAQAAEAEAACABAAAwAQAAQAEAAFABAABg
-					AQAAcAEAAIABAACQAQAAoAEAAAgAAAAABAAA
-					QbaFGCIAAAAYAAAAAQIAAAEAAAAAAAAADwAA
-					AAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMD
-					AAABAAAACAAAAAQDAAAJAAAAAAAAAAQAAAAD
-					AwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhE
-					CAAAAAQDAAAAgJyt6AAAAAgAAAAABAAAQbMP
-					o9oAAAAkAAAAAQEAAEVDQzg1NDg4LThBQUEt
-					M0YyRS05QUFGLTcxMkEwQTQ2REU1MRgAAAAB
-					AgAAgQAAAAEACADvPwAAAQAIAAAAAAAAAAAA
-					AQAAAAEBAAAvAAAABAAAAAMDAAAAAQAAAAEA
-					AAECAAA2YTJkYjI5MDIwODQ0NjZmYzhmOGJk
-					MjExODk5MDk2M2YwNjk1NGU2OzAwMDAwMDAw
-					OzAwMDAwMDAwMDAwMDAwMjA7Y29tLmFwcGxl
-					LmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7MDAw
-					MDAwMDE7MDEwMDAwMDM7MDAwMDAwMDAwMGIx
-					NjI4MDsvdXNlcnMvaGVsbXlfaW1hYy9kb2N1
-					bWVudHMveGNvZGUgcHJvamVjdHMvY29jb3My
-					ZCBwcm9qZWN0cy9kZWFkcmVzY3VlL2RlYWRy
-					ZXNjdWUvcmVzb3VyY2VzL2xldmVsaGVscGVy
-					L2xldmVsMy90cmVlcy5wbmcA8AAAAP7///8B
-					AAAAAAAAABMAAAAEEAAAzAAAAAAAAAAFEAAA
-					sAEAAAAAAAAQEAAA9AEAAAAAAABAEAAA5AEA
-					AAAAAABUEAAAHAIAAAAAAABVEAAAHAIAAAAA
-					AABWEAAAFAIAAAAAAAACIAAAxAIAAAAAAAAQ
-					IAAARAIAAAAAAAARIAAAeAIAAAAAAAASIAAA
-					WAIAAAAAAAATIAAAaAIAAAAAAAAgIAAApAIA
-					AAAAAAAwIAAAFAIAAAAAAAABwAAAKAIAAAAA
-					AAARwAAAFAAAAAAAAAASwAAAOAIAAAAAAAAQ
-					0AAA0AIAAAAAAACA8AAA3AIAAAAAAAA=
-					</data>
 					<key>IsSHSprite</key>
 					<true/>
 					<key>PhysicProperties</key>
@@ -3180,7 +2653,7 @@
 						<key>OriginalImage</key>
 						<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue/DeadRescue/Resources/levelHelper/level3/trees.png</string>
 						<key>OriginalImage_RelativePath</key>
-						<string>trees.png/</string>
+						<string>../../levelHelper/level3/trees.png/</string>
 						<key>OriginalRect</key>
 						<string>{{0, 0}, {812, 244}}</string>
 						<key>OriginalSize</key>
@@ -3205,57 +2678,6 @@
 				</dict>
 				<key>water</key>
 				<dict>
-					<key>DocumentSecurityImageBookmark</key>
-					<data>
-					Ym9vawwFAAAAAAQQMAAAAAAAAAAAAAAAAAAA
-					AAAAAAAAAAAAAAAAAAAAAAAAAAAA5AMAAAUA
-					AAABAQAAVXNlcnMAAAAKAAAAAQEAAGhlbG15
-					X2lNYWMAAAkAAAABAQAARG9jdW1lbnRzAAAA
-					DgAAAAEBAABYQ29kZSBQcm9qZWN0cwAAEAAA
-					AAEBAABDb2NvczJkIFByb2plY3RzCgAAAAEB
-					AABEZWFkUmVzY3VlAAAJAAAAAQEAAFJlc291
-					cmNlcwAAAAsAAAABAQAAbGV2ZWxIZWxwZXIA
-					BgAAAAEBAABsZXZlbDMAAAkAAAABAQAAd2F0
-					ZXIucG5nAAAALAAAAAEGAAAEAAAAFAAAACgA
-					AAA8AAAAVAAAAGwAAABsAAAAgAAAAJQAAACo
-					AAAAuAAAAAgAAAAEAwAAPpgAAAAAAAAIAAAA
-					BAMAACt/CAAAAAAACAAAAAQDAAA4fwgAAAAA
-					AAgAAAAEAwAA7lWcAAAAAAAIAAAABAMAAAxT
-					oAAAAAAACAAAAAQDAAC3WbEAAAAAAAgAAAAE
-					AwAAulmxAAAAAAAIAAAABAMAALtZsQAAAAAA
-					CAAAAAQDAABlYrEAAAAAAAgAAAAEAwAAaWKx
-					AAAAAAAIAAAABAMAAIFisQAAAAAALAAAAAEG
-					AAAAAQAAEAEAACABAAAwAQAAQAEAAFABAABg
-					AQAAcAEAAIABAACQAQAAoAEAAAgAAAAABAAA
-					QbaFGCIAAAAYAAAAAQIAAAEAAAAAAAAADwAA
-					AAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMD
-					AAABAAAACAAAAAQDAAAJAAAAAAAAAAQAAAAD
-					AwAA9QEAAAwAAAABAQAATWFjaW50b3NoIEhE
-					CAAAAAQDAAAAgJyt6AAAAAgAAAAABAAAQbMP
-					o9oAAAAkAAAAAQEAAEVDQzg1NDg4LThBQUEt
-					M0YyRS05QUFGLTcxMkEwQTQ2REU1MRgAAAAB
-					AgAAgQAAAAEACADvPwAAAQAIAAAAAAAAAAAA
-					AQAAAAEBAAAvAAAABAAAAAMDAAAAAQAAAAEA
-					AAECAAAzYWE5ZTdiYTllMTRjM2JiYzk4MGU3
-					MDI5ZWYwOTkwODI1MjYyZGM1OzAwMDAwMDAw
-					OzAwMDAwMDAwMDAwMDAwMjA7Y29tLmFwcGxl
-					LmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7MDAw
-					MDAwMDE7MDEwMDAwMDM7MDAwMDAwMDAwMGIx
-					NjI4MTsvdXNlcnMvaGVsbXlfaW1hYy9kb2N1
-					bWVudHMveGNvZGUgcHJvamVjdHMvY29jb3My
-					ZCBwcm9qZWN0cy9kZWFkcmVzY3VlL2RlYWRy
-					ZXNjdWUvcmVzb3VyY2VzL2xldmVsaGVscGVy
-					L2xldmVsMy93YXRlci5wbmcA8AAAAP7///8B
-					AAAAAAAAABMAAAAEEAAAzAAAAAAAAAAFEAAA
-					sAEAAAAAAAAQEAAA9AEAAAAAAABAEAAA5AEA
-					AAAAAABUEAAAHAIAAAAAAABVEAAAHAIAAAAA
-					AABWEAAAFAIAAAAAAAACIAAAxAIAAAAAAAAQ
-					IAAARAIAAAAAAAARIAAAeAIAAAAAAAASIAAA
-					WAIAAAAAAAATIAAAaAIAAAAAAAAgIAAApAIA
-					AAAAAAAwIAAAFAIAAAAAAAABwAAAKAIAAAAA
-					AAARwAAAFAAAAAAAAAASwAAAOAIAAAAAAAAQ
-					0AAA0AIAAAAAAACA8AAA3AIAAAAAAAA=
-					</data>
 					<key>IsSHSprite</key>
 					<true/>
 					<key>PhysicProperties</key>
@@ -3391,9 +2813,9 @@
 									<string>{206, 227}</string>
 									<string>{191, 226}</string>
 									<string>{191, 128}</string>
-									<string>{128, 128}</string>
+									<string>{127.99999999999999, 128}</string>
 									<string>{127, 64}</string>
-									<string>{64, 64}</string>
+									<string>{63.999999999999993, 64}</string>
 									<string>{63, 0}</string>
 									<string>{1, 0}</string>
 								</array>
@@ -3457,7 +2879,7 @@
 						<key>OriginalImage</key>
 						<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue/DeadRescue/Resources/levelHelper/level3/water.png</string>
 						<key>OriginalImage_RelativePath</key>
-						<string>water.png/</string>
+						<string>../../levelHelper/level3/water.png/</string>
 						<key>OriginalRect</key>
 						<string>{{0, 0}, {1280, 512}}</string>
 						<key>OriginalSize</key>
@@ -3522,22 +2944,22 @@
 	AAUAAAABAQAAVXNlcnMAAAAKAAAAAQEAAGhlbG15X2lNYWMAAAkAAAABAQAARG9jdW1l
 	bnRzAAAADgAAAAEBAABYQ29kZSBQcm9qZWN0cwAAEAAAAAEBAABDb2NvczJkIFByb2pl
 	Y3RzCgAAAAEBAABEZWFkUmVzY3VlAAAJAAAAAQEAAFJlc291cmNlcwAAAAsAAAABAQAA
-	bGV2ZWxIZWxwZXIABgAAAAEBAABsZXZlbDMAACgAAAABBgAABAAAABQAAAAoAAAAPAAA
+	bGV2ZWwzRmlsZXMABgAAAAEBAABsZXZlbDMAACgAAAABBgAABAAAABQAAAAoAAAAPAAA
 	AFQAAABsAAAAbAAAAIAAAACUAAAAqAAAAAgAAAAEAwAAPpgAAAAAAAAIAAAABAMAACt/
 	CAAAAAAACAAAAAQDAAA4fwgAAAAAAAgAAAAEAwAA7lWcAAAAAAAIAAAABAMAAAxToAAA
-	AAAACAAAAAQDAAC3WbEAAAAAAAgAAAAEAwAAulmxAAAAAAAIAAAABAMAALtZsQAAAAAA
+	AAAACAAAAAQDAAASebEAAAAAAAgAAAAEAwAAFXmxAAAAAAAIAAAABAMAABZ5sQAAAAAA
 	CAAAAAQDAABlYrEAAAAAAAgAAAAEAwAAaWKxAAAAAAAoAAAAAQYAAOgAAAD4AAAACAEA
 	ABgBAAAoAQAAOAEAAEgBAABYAQAAaAEAAHgBAAAIAAAAAAQAAEG2hRgiAAAAGAAAAAEC
 	AAACAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAgAAAAAAAAABAAAAAMDAAD1
 	AQAADAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAACAnK3oAAAACAAAAAAEAABBsw+j
 	2gAAACQAAAABAQAARUNDODU0ODgtOEFBQS0zRjJFLTlBQUYtNzEyQTBBNDZERTUxGAAA
 	AAECAACBAAAAAQAIAO8/AAABAAgAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAAQA
-	AAADAwAAAAEAAPYAAAABAgAAOTA3MWJiZDI5NWY0YjdlNzNhMjFmNWE3MGY5M2I4YTg2
-	NTE5MGIwNzswMDAwMDAwMDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBsZS5hcHAtc2Fu
+	AAADAwAAAAEAAPYAAAABAgAAN2IwYzI2MDVjMTg4MTExODhjOGY1MWI1MjYxNzMxYTkw
+	NjcyOGIyNzswMDAwMDAwMDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBsZS5hcHAtc2Fu
 	ZGJveC5yZWFkLXdyaXRlOzAwMDAwMDAxOzAxMDAwMDAzOzAwMDAwMDAwMDBiMTYyNjk7
 	L3VzZXJzL2hlbG15X2ltYWMvZG9jdW1lbnRzL3hjb2RlIHByb2plY3RzL2NvY29zMmQg
-	cHJvamVjdHMvZGVhZHJlc2N1ZS9kZWFkcmVzY3VlL3Jlc291cmNlcy9sZXZlbGhlbHBl
-	ci9sZXZlbDMAAADMAAAA/v///wEAAAAAAAAAEAAAAAQQAAC4AAAAAAAAAAUQAACIAQAA
+	cHJvamVjdHMvZGVhZHJlc2N1ZS9kZWFkcmVzY3VlL3Jlc291cmNlcy9sZXZlbDNmaWxl
+	cy9sZXZlbDMAAADMAAAA/v///wEAAAAAAAAAEAAAAAQQAAC4AAAAAAAAAAUQAACIAQAA
 	AAAAABAQAADIAQAAAAAAAEAQAAC4AQAAAAAAAAIgAACEAgAAAAAAABAgAAAEAgAAAAAA
 	ABEgAAA4AgAAAAAAABIgAAAYAgAAAAAAABMgAAAoAgAAAAAAACAgAABkAgAAAAAAADAg
 	AACQAgAAAAAAAAHAAADoAQAAAAAAABHAAAAUAAAAAAAAABLAAAD4AQAAAAAAABDQAACY

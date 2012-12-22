@@ -76,7 +76,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{320, 192}</string>
+								<string>{320, 512}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -151,7 +151,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{320, 8}</string>
+								<string>{320, 320}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -277,7 +277,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{254.5, -185.75}</string>
+								<string>{254.5, 126.25}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -352,7 +352,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{141, -26}</string>
+								<string>{141, 286}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -478,7 +478,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{109, -245.5}</string>
+								<string>{109, 66.5}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -604,7 +604,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{87, -248.25}</string>
+								<string>{87, 63.75}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -730,7 +730,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{112, 192}</string>
+								<string>{112, 503}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -856,7 +856,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{112, 240}</string>
+								<string>{112, 551}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -931,7 +931,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{437, -251}</string>
+								<string>{437, 61}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -1057,7 +1057,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{383.75, -43.25}</string>
+								<string>{383.75, 268.75}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -1183,7 +1183,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{566.5, 118.25}</string>
+								<string>{566.5, 430.25}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -1309,7 +1309,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{358.5, 198.25}</string>
+								<string>{358.5, 510.25}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -1435,7 +1435,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{286.75, -134.5}</string>
+								<string>{286.75, 177.5}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -1471,7 +1471,7 @@
 					<key>SheetImage</key>
 					<string>level3Sprites_objects.png</string>
 					<key>SheetImageRelative</key>
-					<string>/level3/level3Sprites_objects.png</string>
+					<string>/Resources/level3Files/level3/level3Sprites_objects.png</string>
 					<key>Tag</key>
 					<integer>0</integer>
 					<key>TagName</key>
@@ -1528,16 +1528,86 @@
 		<key>ProjectName</key>
 		<string>DeadRescue</string>
 		<key>ProjectPath</key>
-		<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue.git/DeadRescue/Resources/levelHelper</string>
+		<string>/Users/helmy_iMac/Documents/XCode Projects/Cocos2d Projects/DeadRescue/DeadRescue/Resources/levelHelper</string>
 		<key>SafeFrame</key>
 		<string>{480, 320}</string>
 		<key>Tags</key>
 		<array>
 			<string>DEFAULT</string>
 			<string>COLLIDABLE</string>
+			<string>END_POINT</string>
 		</array>
 		<key>ZoomValue</key>
 		<real>0.0</real>
+	</dict>
+	<key>WBInfo</key>
+	<dict>
+		<key>AngularDamping</key>
+		<real>0.0</real>
+		<key>AngularVelocity</key>
+		<real>0.0</real>
+		<key>CanSleep</key>
+		<true/>
+		<key>Category</key>
+		<integer>1</integer>
+		<key>Density</key>
+		<real>0.20000000298023224</real>
+		<key>FixedRot</key>
+		<false/>
+		<key>Fixture</key>
+		<array/>
+		<key>Friction</key>
+		<real>0.20000000298023224</real>
+		<key>GravityScale</key>
+		<real>1</real>
+		<key>Group</key>
+		<integer>0</integer>
+		<key>HandledBySH</key>
+		<false/>
+		<key>IsBullet</key>
+		<false/>
+		<key>IsCircle</key>
+		<false/>
+		<key>IsSensor</key>
+		<false/>
+		<key>LHHeight</key>
+		<real>0.0</real>
+		<key>LHShapePositionOffset</key>
+		<string>{0, 0}</string>
+		<key>LHWidth</key>
+		<real>0.0</real>
+		<key>LinearDamping</key>
+		<real>0.0</real>
+		<key>LinearVelocity</key>
+		<string>{0, 0}</string>
+		<key>Mask</key>
+		<integer>65535</integer>
+		<key>Name</key>
+		<string>LH_Generic_Fixture</string>
+		<key>Restitution</key>
+		<real>0.20000000298023224</real>
+		<key>Tag</key>
+		<integer>0</integer>
+		<key>TagBottom</key>
+		<integer>0</integer>
+		<key>TagBottomName</key>
+		<string>DEFAULT</string>
+		<key>TagLeft</key>
+		<integer>0</integer>
+		<key>TagLeftName</key>
+		<string>DEFAULT</string>
+		<key>TagRight</key>
+		<integer>0</integer>
+		<key>TagRightName</key>
+		<string>DEFAULT</string>
+		<key>TagTop</key>
+		<integer>0</integer>
+		<key>TagTopName</key>
+		<string>DEFAULT</string>
+		<key>Type</key>
+		<integer>0</integer>
+		<key>WBRect</key>
+		<string>{{0, 0}, {640.31278551215155, 640.19546949787627}}</string>
 	</dict>
 </dict>
 </plist>

@@ -63,6 +63,10 @@ enum {
         if ([loader hasPhysicBoundaries]) {
             [loader createPhysicBoundaries:world];
         }
+        
+        LHSprite *player = [LHSprite spriteWithName:@"Player-hd" fromSheet:@"level3Sprites_objects" SHFile:@"level3Sprites"];
+        [self addChild:player];
+        player.position = ccp(150,150);
 		
 		[self scheduleUpdate];
 	}
@@ -203,7 +207,7 @@ enum {
 {
 		CGPoint location = [touch locationInView: [touch view]];
 		location = [[CCDirector sharedDirector] convertToGL: location];
-    location = [self convertToNodeSpace:location];
+        location = [self convertToNodeSpace:location];
 		
 		CCLOG(@"touch detected");
 	

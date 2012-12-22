@@ -55,7 +55,7 @@
 	<key>ProjectName</key>
 	<string>DeadRescue</string>
 	<key>ProjectPathRelative</key>
-	<string>./</string>
+	<string>../levelHelper/</string>
 	<key>SandboxProjectFolder</key>
 	<data>
 	Ym9va5QEAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkAMA
