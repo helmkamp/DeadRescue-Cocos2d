@@ -334,7 +334,7 @@
 							</dict>
 						</array>
 						<key>Type</key>
-						<integer>1</integer>
+						<integer>0</integer>
 					</dict>
 					<key>SHSheetName</key>
 					<string>objects</string>
@@ -558,7 +558,7 @@
 							</dict>
 						</array>
 						<key>Type</key>
-						<integer>1</integer>
+						<integer>0</integer>
 					</dict>
 					<key>SHSheetName</key>
 					<string>objects</string>
@@ -645,7 +645,7 @@
 						<key>CanSleep</key>
 						<true/>
 						<key>FixedRot</key>
-						<false/>
+						<true/>
 						<key>GravityScale</key>
 						<real>1</real>
 						<key>HandledBySH</key>
@@ -756,7 +756,7 @@
 							</dict>
 						</array>
 						<key>Type</key>
-						<integer>1</integer>
+						<integer>0</integer>
 					</dict>
 					<key>SHSheetName</key>
 					<string>objects</string>
@@ -914,7 +914,7 @@
 							</dict>
 						</array>
 						<key>Type</key>
-						<integer>1</integer>
+						<integer>0</integer>
 					</dict>
 					<key>SHSheetName</key>
 					<string>objects</string>
@@ -1082,7 +1082,7 @@
 							</dict>
 						</array>
 						<key>Type</key>
-						<integer>1</integer>
+						<integer>0</integer>
 					</dict>
 					<key>SHSheetName</key>
 					<string>objects</string>
@@ -1310,7 +1310,7 @@
 							</dict>
 						</array>
 						<key>Type</key>
-						<integer>1</integer>
+						<integer>0</integer>
 					</dict>
 					<key>SHSheetName</key>
 					<string>objects</string>
@@ -1460,9 +1460,66 @@
 						<key>LinearVelocity</key>
 						<string>{0, 0}</string>
 						<key>SH_ComplexShapes</key>
-						<array/>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-8.5, -16}</string>
+										<string>{13.5, -16}</string>
+										<string>{13.5, 17}</string>
+										<string>{-8.5, 17}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>66</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<true/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>33</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-8.5, -17}</string>
+								<key>LHWidth</key>
+								<real>22</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{0, 0}</string>
+									<string>{44, 0}</string>
+									<string>{44, 66}</string>
+									<string>{0, 66}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>44</real>
+							</dict>
+						</array>
 						<key>Type</key>
-						<integer>3</integer>
+						<integer>2</integer>
 					</dict>
 					<key>SHSheetName</key>
 					<string>objects</string>
@@ -1630,7 +1687,7 @@
 							</dict>
 						</array>
 						<key>Type</key>
-						<integer>1</integer>
+						<integer>0</integer>
 					</dict>
 					<key>SHSheetName</key>
 					<string>objects</string>
@@ -1800,7 +1857,7 @@
 								<key>Angle</key>
 								<integer>0</integer>
 								<key>Category</key>
-								<integer>2</integer>
+								<integer>1</integer>
 								<key>Density</key>
 								<real>0.20000000298023224</real>
 								<key>Fixture</key>
@@ -1862,7 +1919,7 @@
 								<key>Angle</key>
 								<integer>0</integer>
 								<key>Category</key>
-								<integer>2</integer>
+								<integer>1</integer>
 								<key>Density</key>
 								<real>0.20000000298023224</real>
 								<key>Fixture</key>
@@ -1982,7 +2039,7 @@
 							</dict>
 						</array>
 						<key>Type</key>
-						<integer>1</integer>
+						<integer>0</integer>
 					</dict>
 					<key>SHSheetName</key>
 					<string>objects</string>
@@ -2180,7 +2237,7 @@
 							</dict>
 						</array>
 						<key>Type</key>
-						<integer>1</integer>
+						<integer>0</integer>
 					</dict>
 					<key>SHSheetName</key>
 					<string>objects</string>
@@ -2462,7 +2519,7 @@
 							</dict>
 						</array>
 						<key>Type</key>
-						<integer>1</integer>
+						<integer>0</integer>
 					</dict>
 					<key>SHSheetName</key>
 					<string>objects</string>
@@ -2688,7 +2745,7 @@
 							</dict>
 						</array>
 						<key>Type</key>
-						<integer>1</integer>
+						<integer>0</integer>
 					</dict>
 					<key>SHSheetName</key>
 					<string>objects</string>
