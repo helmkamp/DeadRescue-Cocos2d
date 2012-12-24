@@ -25,6 +25,9 @@
 @interface HelloWorldLayer : CCLayer 
 {
     LevelHelperLoader *loader;
+    CGSize gameScrSize;
+    CGRect gameWorldRect;
+    CCSprite *player;
     
 	CCTexture2D *spriteTexture_;	// weak ref
 	b2World* world;					// strong ref

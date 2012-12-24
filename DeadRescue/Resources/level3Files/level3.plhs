@@ -76,7 +76,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{320, 512}</string>
+								<string>{320, 192}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -151,7 +151,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{320, 320}</string>
+								<string>{320, 0}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -277,7 +277,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{254.5, 126.25}</string>
+								<string>{246.5, -193.75}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -352,7 +352,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{141, 286}</string>
+								<string>{141, -34}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -478,7 +478,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{109, 66.5}</string>
+								<string>{109, -253.5}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -604,7 +604,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{87, 63.75}</string>
+								<string>{87, -256.25}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -718,7 +718,7 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{674, 200}, {32, 14}}</string>
+								<string>{{674, 216}, {32, 14}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
@@ -730,7 +730,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{112, 503}</string>
+								<string>{112, 175}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -844,7 +844,7 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{674, 216}, {32, 14}}</string>
+								<string>{{674, 200}, {32, 14}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
@@ -856,7 +856,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{112, 551}</string>
+								<string>{112, 241}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -931,7 +931,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{437, 61}</string>
+								<string>{437, -259}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -1057,7 +1057,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{383.75, 268.75}</string>
+								<string>{381.75, -51.25}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -1183,7 +1183,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{566.5, 430.25}</string>
+								<string>{558.5, 110.25}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -1309,7 +1309,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{358.5, 510.25}</string>
+								<string>{350.5, 190.25}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -1435,7 +1435,7 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{286.75, 177.5}</string>
+								<string>{278.75, -142.5}</string>
 								<key>Scale</key>
 								<string>{1, 1}</string>
 								<key>SpriteSize</key>
@@ -1480,6 +1480,172 @@
 					<string>objects</string>
 					<key>ZOrder</key>
 					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Children</key>
+					<array/>
+					<key>CustomClassInfo</key>
+					<dict>
+						<key>ClassName</key>
+						<string>No Class</string>
+					</dict>
+					<key>NodeType</key>
+					<string>LHBezier</string>
+					<key>ParentClass</key>
+					<string>LHLayer</string>
+					<key>ParentName</key>
+					<string>MAIN_LAYER</string>
+					<key>PhysicsProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>Category</key>
+						<integer>1</integer>
+						<key>Density</key>
+						<real>0.20000000298023224</real>
+						<key>FixedRot</key>
+						<false/>
+						<key>Fixture</key>
+						<array/>
+						<key>Friction</key>
+						<real>0.20000000298023224</real>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>Group</key>
+						<integer>0</integer>
+						<key>HandledBySH</key>
+						<false/>
+						<key>IsBullet</key>
+						<false/>
+						<key>IsCircle</key>
+						<false/>
+						<key>IsSensor</key>
+						<false/>
+						<key>LHHeight</key>
+						<real>0.0</real>
+						<key>LHShapePositionOffset</key>
+						<string>{0, 0}</string>
+						<key>LHWidth</key>
+						<real>0.0</real>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>Mask</key>
+						<integer>65535</integer>
+						<key>Name</key>
+						<string>LH_Generic_Fixture</string>
+						<key>Restitution</key>
+						<real>0.20000000298023224</real>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TileOptimization</key>
+						<real>3</real>
+						<key>TileVertices</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>Curves</key>
+						<array>
+							<dict>
+								<key>EndControlPoint</key>
+								<string>{40.124454811271676, 250.22189118103637}</string>
+								<key>EndPoint</key>
+								<string>{54.397214248832711, 250.22189118103637}</string>
+								<key>StartControlPoint</key>
+								<string>{20.124454811271676, 250.22189118103637}</string>
+								<key>StartPoint</key>
+								<string>{5.8516953737106405, 250.22189118103637}</string>
+							</dict>
+							<dict>
+								<key>EndControlPoint</key>
+								<string>{65.086781278308877, 208.43412919478072}</string>
+								<key>EndPoint</key>
+								<string>{55.776348307785042, 166.64636720852508}</string>
+								<key>StartControlPoint</key>
+								<string>{45.086781278308877, 208.43412919478072}</string>
+								<key>StartPoint</key>
+								<string>{54.397214248832711, 250.22189118103637}</string>
+							</dict>
+							<dict>
+								<key>EndControlPoint</key>
+								<string>{41.365675464328774, 165.95680017904891}</string>
+								<key>EndPoint</key>
+								<string>{6.9550026208725058, 165.26723314957275}</string>
+								<key>StartControlPoint</key>
+								<string>{21.365675464328774, 165.95680017904891}</string>
+								<key>StartPoint</key>
+								<string>{55.776348307785042, 166.64636720852508}</string>
+							</dict>
+							<dict>
+								<key>EndControlPoint</key>
+								<string>{16.817089214977273, 207.60664875940932}</string>
+								<key>EndPoint</key>
+								<string>{5.8516953737106405, 250.22189118103637}</string>
+								<key>StartControlPoint</key>
+								<string>{-3.1829107850227274, 207.60664875940932}</string>
+								<key>StartPoint</key>
+								<string>{6.9550026208725058, 165.26723314957275}</string>
+							</dict>
+						</array>
+						<key>DrawBorder</key>
+						<true/>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Image</key>
+						<string>No Image</string>
+						<key>ImageFile</key>
+						<string>No Image</string>
+						<key>IsClosed</key>
+						<true/>
+						<key>IsDrawable</key>
+						<false/>
+						<key>IsExpanded</key>
+						<false/>
+						<key>IsPath</key>
+						<false/>
+						<key>IsSimpleLine</key>
+						<false/>
+						<key>IsTile</key>
+						<false/>
+						<key>LineColor</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>LineWidth</key>
+						<real>3.0000000000000018</real>
+						<key>Locked</key>
+						<false/>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>Position</key>
+						<string>{5.8516953737106405, 250.22189118103637}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{0, 0}</string>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TagName</key>
+						<string>DEFAULT</string>
+						<key>UniqueName</key>
+						<string>BezierNode</string>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+					<key>UniqueName</key>
+					<string>BezierNode</string>
 				</dict>
 			</array>
 			<key>CustomClassInfo</key>
@@ -1607,7 +1773,7 @@
 		<key>Type</key>
 		<integer>0</integer>
 		<key>WBRect</key>
-		<string>{{0, 0}, {640.31278551215155, 640.19546949787627}}</string>
+		<string>{{-0.087668274601460761, -320.15747027166776}, {640.90875065209218, 640.43781836600715}}</string>
 	</dict>
 </dict>
 </plist>

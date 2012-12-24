@@ -55,8 +55,6 @@ enum {
 		// init physics
 		[self initPhysics];
 		
-		
-		
         loader = [[LevelHelperLoader alloc] initWithContentOfFile:@"level3"];
         [loader addObjectsToWorld:world cocos2dLayer:self];
         
@@ -64,10 +62,16 @@ enum {
             [loader createPhysicBoundaries:world];
         }
         
-        LHSprite *player = [LHSprite spriteWithName:@"Player-hd" fromSheet:@"level3Sprites_objects" SHFile:@"level3Sprites"];
-        [self addChild:player];
-        player.position = ccp(150,150);
-		
+        player = [CCSprite spriteWithFile:@"player.png"];
+        player.position = ccp(s.width/2, 500);
+        player.anchorPoint = ccp(0.5,0);
+        [self addChild:player z:10];
+        
+        gameScrSize = [loader gameScreenSize]; //the device size set in loaded level
+        gameWorldRect = [loader gameWorldSize]; //the size of the game world
+        
+        [loader useLevelHelperCollisionHandling];
+        
 		[self scheduleUpdate];
 	}
 	return self;
@@ -193,6 +197,26 @@ enum {
 	}
 }
 
+-(void)setViewpointCenter:(CGPoint)position {
+    int x = MAX(position.x, gameScrSize.width/2);
+    int y = MAX(position.y, gameScrSize.height/2);
+    x = MIN(x, (gameWorldRect.origin.x + gameWorldRect.size.width)-gameScrSize.width/2);
+    y = MIN(y, (gameWorldRect.origin.y + gameWorldRect.size.height)-gameScrSize.height/2);
+    
+    CGPoint actualPosition = ccp(x,y);
+    
+    CGPoint centerOfView = ccp(gameScrSize.width/2, gameScrSize.height/2);
+    CGPoint viewPoint = ccpSub(centerOfView, actualPosition);
+    
+    self.position = viewPoint;
+    
+}
+
+-(void)setPlayerPosition:(CGPoint)position {
+    player.position = position;
+}
+
+
 -(void) registerWithTouchDispatcher
 {
 	[[[CCDirector sharedDirector] touchDispatcher] addTargetedDelegate:self priority:0 swallowsTouches:YES];
@@ -205,11 +229,38 @@ enum {
 
 - (void)ccTouchEnded:(UITouch *)touch withEvent:(UIEvent *)event
 {
-		CGPoint location = [touch locationInView: [touch view]];
-		location = [[CCDirector sharedDirector] convertToGL: location];
-        location = [self convertToNodeSpace:location];
-		
-		CCLOG(@"touch detected");
+    CGPoint location = [touch locationInView: [touch view]];
+    location = [[CCDirector sharedDirector] convertToGL: location];
+    location = [self convertToNodeSpace:location];
+    
+    //CCLOG(@"touch detected");
+    
+    CGPoint playerPos = player.position;
+    CGPoint diff = ccpSub(location, playerPos);
+    
+    if (abs(diff.x) > abs(diff.y)) {
+        if (diff.x > 0) {
+            playerPos.x += 32;
+        } else {
+            playerPos.x -= 32;
+        }
+    } else {
+        if (diff.y > 0) {
+            playerPos.y += 34;
+        } else {
+            playerPos.y -= 34;
+        }
+    }
+    
+    if (playerPos.x <= (gameWorldRect.size.width * 32) &&
+        playerPos.y <= (gameWorldRect.size.height * 32) &&
+        playerPos.y >= 0 &&
+        playerPos.x >= 0 )
+    {
+        [self setPlayerPosition:playerPos];
+    }
+    
+    [self setViewpointCenter: player.position];
 	
 }
 
